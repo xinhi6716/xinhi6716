@@ -5,9 +5,11 @@
   <img src="assets/cover-light.svg" width="100%" alt="LinCing. Semiconductors, machine learning, code and reading notes.">
 </picture>
 
-OpenAI, consider this my very early job application. PhD first.
+**OpenAI, consider this my very early job application. PhD first.**
 
-<p><a href="#tools">Build with data</a> · <a href="#methods">Agent methods</a> · <a href="#utilities">Small utilities</a> · <a href="#reading">Books &amp; research</a></p>
+I work on semiconductor measurements and machine learning. These are the tools, research notes and reading projects I keep here.
+
+<p><a href="#tools">Build with data</a> · <a href="#methods">Agent methods</a> · <a href="#utilities">Small utilities</a> · <a href="#reading">Books &amp; research</a> · <a href="https://github.com/users/xinhi6716/projects/2">Work in progress</a></p>
 
 <a name="tools"></a>
 
@@ -20,7 +22,11 @@ OpenAI, consider this my very early job application. PhD first.
   <img src="assets/toolbox-light.svg" width="100%" alt="Semiconductor ML Toolbox. Original document-family illustration: I–V, RRAM, TLM and Hall.">
 </picture></a></p>
 
-Process semiconductor measurements, check device groups, and run local pulse-path baselines.
+**[Semiconductor Machine Learning Toolbox](https://github.com/xinhi6716/semiconductor-machine-learning-toolbox)**
+
+Start with measurement tables: process I–V, RRAM, TLM and Hall data, check device groups, and run local pulse-path baselines.
+
+[Choose an installation path →](https://github.com/xinhi6716/semiconductor-machine-learning-toolbox/blob/main/docs/installation.md)
 
 <p><a href="https://github.com/xinhi6716/ml-super-calculator"><picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/calculator-dark-mobile.svg">
@@ -29,7 +35,11 @@ Process semiconductor measurements, check device groups, and run local pulse-pat
   <img src="assets/calculator-light.svg" width="100%" alt="ML Super Calculator. Original illustration of local model tables, not benchmark results.">
 </picture></a></p>
 
-Compare models on a local CSV with group-held-out evaluation, then refit and predict new rows.
+**[ML Super Calculator](https://github.com/xinhi6716/ml-super-calculator)**
+
+Bring a CSV, compare models with group-held-out evaluation, then refit and predict new rows. Computation stays in your own environment.
+
+[Browse the examples →](https://github.com/xinhi6716/ml-super-calculator/tree/main/examples)
 
 <a name="methods"></a>
 
@@ -42,7 +52,11 @@ Compare models on a local CSV with group-held-out evaluation, then refit and pre
   <img src="assets/axiom-light.svg" width="100%" alt="Axiom Forge. Research and engineering skills. Original repository icon.">
 </picture></a></p>
 
+**[Axiom Forge](https://github.com/xinhi6716/axiom-forge)**
+
 Research and engineering skills for the coding agent you already use.
+
+[Browse the workflows →](https://github.com/xinhi6716/axiom-forge)
 
 <a name="utilities"></a>
 
@@ -50,15 +64,15 @@ Research and engineering skills for the coding agent you already use.
 
 ### [Research Workflow Utilities](https://github.com/xinhi6716/research-workflow-utilities)
 
-Compare, join and check tables; inspect saved files and predictions.
+For the work between experiments: compare and join tables, check saved files, and inspect predictions.
 
 ### [Materials Table Check](https://github.com/xinhi6716/materials-table-check)
 
-Check CSV fields, duplicates, unit labels and cross-split groups against a JSON schema.
+Check a CSV before modeling: required fields, duplicates, unit labels and cross-split groups, using a JSON schema.
 
 ### [Reproduce One Run](https://github.com/xinhi6716/reproduce-one-run)
 
-Record a local command, its files, logs and hashes, then check the saved outputs against a spec.
+Keep a record of one local run: the command, files, logs and hashes, with output checks against a spec.
 
 <a name="reading"></a>
 
@@ -80,4 +94,4 @@ A public preprint and LaTeX source on LLM peer revision.
 
 ---
 
-[Text-only version](README.plain.md)
+[Text-only version](README.plain.md) · [What I’m working on](https://github.com/users/xinhi6716/projects/2)
