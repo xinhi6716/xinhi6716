@@ -12,20 +12,20 @@
 <a name="tools"></a>
 <h2><img src="assets/chapter-1.svg" width="24" height="24" alt=""> 工具 / Tools</h2>
 
-<a href="https://github.com/xinhi6716/semiconductor-machine-learning-toolbox"><picture>
+<p><a href="https://github.com/xinhi6716/semiconductor-machine-learning-toolbox"><picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/chip-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/chip-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/chip-dark.svg">
   <img src="assets/chip-light.svg" width="100%" alt="Semiconductor Machine Learning Toolbox — open repository">
-</picture></a>
+</picture></a></p>
 <p>I–V、RRAM、TLM 與 Hall 量測處理，另有分組檢查與本地 pulse-path baseline。</p>
 
-<a href="https://github.com/xinhi6716/ml-super-calculator"><picture>
+<p><a href="https://github.com/xinhi6716/ml-super-calculator"><picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/models-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/models-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/models-dark.svg">
   <img src="assets/models-light.svg" width="100%" alt="ML Super Calculator — open repository">
-</picture></a>
+</picture></a></p>
 <p>讀入 CSV，按批次或試片分組比較模型，再在本機預測新資料。</p>
 
 <h3>研究用工具</h3>
