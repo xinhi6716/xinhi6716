@@ -6,13 +6,13 @@ I work on semiconductor measurements and machine learning. These are the tools, 
 
 ## Build with data
 
-**[Semiconductor Machine Learning Toolbox](https://github.com/xinhi6716/semiconductor-machine-learning-toolbox)**
+### [Semiconductor Machine Learning Toolbox](https://github.com/xinhi6716/semiconductor-machine-learning-toolbox)
 
 Start with measurement tables: process I–V, RRAM, TLM and Hall data, check device groups, and run local pulse-path baselines.
 
 [Choose an installation path →](https://github.com/xinhi6716/semiconductor-machine-learning-toolbox/blob/main/docs/installation.md)
 
-**[ML Super Calculator](https://github.com/xinhi6716/ml-super-calculator)**
+### [ML Super Calculator](https://github.com/xinhi6716/ml-super-calculator)
 
 Bring a CSV, compare models with group-held-out evaluation, then refit and predict new rows. Computation stays in your own environment.
 

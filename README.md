@@ -9,33 +9,34 @@
 
 I work on semiconductor measurements and machine learning. These are the tools, research notes and reading projects I keep here.
 
-<p><a href="#tools">Build with data</a> · <a href="#methods">Agent methods</a> · <a href="#utilities">Small utilities</a> · <a href="#reading">Books &amp; research</a> · <a href="https://github.com/users/xinhi6716/projects/2">Work in progress</a></p>
+<p><a href="#tools">Data tools</a> · <a href="#methods">Methods</a> · <a href="#utilities">Utilities</a> · <a href="#reading">Reading</a> · <a href="https://github.com/users/xinhi6716/projects/2">Work in progress</a></p>
 
 <a name="tools"></a>
 
 ## Build with data
 
-<p><a href="https://github.com/xinhi6716/semiconductor-machine-learning-toolbox"><picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/toolbox-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/toolbox-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg">
-  <img src="assets/toolbox-light.svg" width="100%" alt="Semiconductor ML Toolbox. Original document-family illustration: I–V, RRAM, TLM and Hall.">
-</picture></a></p>
+<p>
+<a href="https://github.com/xinhi6716/semiconductor-machine-learning-toolbox"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/project-toolbox-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/project-toolbox-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-toolbox-dark.svg">
+  <img src="assets/project-toolbox-light.svg" width="360" alt="Semiconductor Machine Learning Toolbox — measurement files. Open the repository.">
+</picture></a>
+<a href="https://github.com/xinhi6716/ml-super-calculator"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/project-calculator-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/project-calculator-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-calculator-dark.svg">
+  <img src="assets/project-calculator-light.svg" width="360" alt="ML Super Calculator — local model comparison. Open the repository.">
+</picture></a>
+</p>
 
-**[Semiconductor Machine Learning Toolbox](https://github.com/xinhi6716/semiconductor-machine-learning-toolbox)**
+### [Semiconductor Machine Learning Toolbox](https://github.com/xinhi6716/semiconductor-machine-learning-toolbox)
 
 Start with measurement tables: process I–V, RRAM, TLM and Hall data, check device groups, and run local pulse-path baselines.
 
 [Choose an installation path →](https://github.com/xinhi6716/semiconductor-machine-learning-toolbox/blob/main/docs/installation.md)
 
-<p><a href="https://github.com/xinhi6716/ml-super-calculator"><picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/calculator-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/calculator-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/calculator-dark.svg">
-  <img src="assets/calculator-light.svg" width="100%" alt="ML Super Calculator. Original illustration of local model tables, not benchmark results.">
-</picture></a></p>
-
-**[ML Super Calculator](https://github.com/xinhi6716/ml-super-calculator)**
+### [ML Super Calculator](https://github.com/xinhi6716/ml-super-calculator)
 
 Bring a CSV, compare models with group-held-out evaluation, then refit and predict new rows. Computation stays in your own environment.
 
