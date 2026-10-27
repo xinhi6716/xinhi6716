@@ -4,9 +4,11 @@ OpenAI, consider this my very early job application. PhD first.
 
 I work on semiconductor measurements and machine learning.
 
-## Featured: [Axiom Forge](https://github.com/xinhi6716/axiom-forge)
+## Featured: Axiom
 
-Research and engineering skills for the coding agent you already use.
+The Axiom controller is planned for agent interaction and multi-agent coordination; it is not built yet.
+
+**Available skill pack:** [Axiom Daedalus](https://github.com/xinhi6716/axiom-forge) *(currently Axiom Forge; rename planned)* — research and engineering skills for the coding agent you already use.
 
 ## GitHub dashboard
 

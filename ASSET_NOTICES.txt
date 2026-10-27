@@ -86,3 +86,68 @@ SOFTWARE.
 2026-10-27 dashboard correction: wish-*.svg is an original typographic composition for LinCing, using the existing DejaVu glyph-outline method and font license above. It presents a personal humorous wish; no OpenAI logo, endorsement, affiliation, or submitted application is implied. The four cover assets are compacted to keep the dashboard prominent; all other existing unused profile assets are retained unchanged.
 
 The README embeds live hosted images from GitHub Profile Summary Cards, https://github.com/vn7n24fzkq/github-profile-summary-cards . Only the public username xinhi6716 and a documented theme are sent in image URLs. No user token, private repository data, workflow, credential or permission is configured. Cards may be cached, rate-limited or unavailable. Hosted stats/language cards use up to 100 repositories ranked by stars, not a complete lifetime or proficiency measure. The service uses its own upstream GitHub access; consuming its public hosted images is not self-hosting the service. No reference-profile artwork or mock statistical preview was copied.
+
+2026-10-27 Axiom family feature: the new assets/axiom-family-*.svg banners use the coordinated original Axiom family identity. The Axiom controller is planned, not built. Axiom Daedalus is the selected name for the existing Axiom Forge skill pack; the name change is planned, not executed. The current repository remains axiom-forge. Old Forge artwork remains unchanged. Source design notice follows.
+
+Axiom family identity candidate revision 2 — 2026-10-27
+
+All open-gate geometry, control diamond, stacked-module and paired-column symbols are original editable SVG constructions created for xinhi6716. They are not traced from, adapted from, or copied from outside brands or icons. No stock imagery, raster artwork, remote resources, embedded fonts, trackers or animation is included. This is a design-source statement, not a trademark-clearance opinion.
+
+Axiom is a planned agent-interaction controller, including multi-agent coordination; it is not represented as an existing implementation. Axiom Daedalus is the selected new name of the existing Axiom Forge skill-pack product. No repository rename or shipped migration is implied; links still target the existing axiom-forge repository until an authorized migration occurs. The ML mark is provisional and deliberately carries no proposed product name. Evidence-column geometry is symbolic, not experimental data, benchmark results or a performance claim.
+
+Original vectors are supplied as candidate assets for the owner's repositories; no separate trademark or exclusive-rights clearance is asserted. Existing destination-repository licensing remains the publication owner's decision. DejaVu Sans and DejaVu Sans Mono glyph outlines are included in the banners only; no font binary is bundled. Font notice follows.
+
+Font source: https://dejavu-fonts.github.io/
+
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: DejaVu fonts
+Upstream-Author: Stepan Roh <src@users.sourceforge.net> (original author),
+                  see /usr/share/doc/fonts-dejavu-core/AUTHORS for full list
+Source: https://dejavu-fonts.github.io/
+
+Files: *
+Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. 
+ Bitstream Vera is a trademark of Bitstream, Inc.
+ DejaVu changes are in public domain.
+License: bitstream-vera
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of the fonts accompanying this license ("Fonts") and associated
+ documentation files (the "Font Software"), to reproduce and distribute the
+ Font Software, including without limitation the rights to use, copy, merge,
+ publish, distribute, and/or sell copies of the Font Software, and to permit
+ persons to whom the Font Software is furnished to do so, subject to the
+ following conditions:
+ .
+ The above copyright and trademark notices and this permission notice shall
+ be included in all copies of one or more of the Font Software typefaces.
+ .
+ The Font Software may be modified, altered, or added to, and in particular
+ the designs of glyphs or characters in the Fonts may be modified and
+ additional glyphs or characters may be added to the Fonts, only if the fonts
+ are renamed to names not containing either the words "Bitstream" or the word
+ "Vera".
+ .
+ This License becomes null and void to the extent applicable to Fonts or Font
+ Software that has been modified and is distributed under the "Bitstream
+ Vera" names.
+ .
+ The Font Software may be sold as part of a larger software package but no
+ copy of one or more of the Font Software typefaces may be sold by itself.
+ .
+ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+ OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,
+ TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME
+ FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING
+ ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,
+ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
+ THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE
+ FONT SOFTWARE.
+ .
+ Except as contained in this notice, the names of Gnome, the Gnome
+ Foundation, and Bitstream Inc., shall not be used in advertising or
+ otherwise to promote the sale, use or other dealings in this Font Software
+ without prior written authorization from the Gnome Foundation or Bitstream
+ Inc., respectively. For further information, contact: fonts at gnome dot
+ org.
+

@@ -14,16 +14,18 @@
 
 I work on semiconductor measurements and machine learning.
 
-## Featured: [Axiom Forge](https://github.com/xinhi6716/axiom-forge)
+## Featured: Axiom
 
-<p><a href="https://github.com/xinhi6716/axiom-forge"><picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/axiom-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/axiom-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/axiom-dark.svg">
-  <img src="assets/axiom-light.svg" width="100%" alt="Axiom Forge. Research and engineering skills. Original repository icon.">
-</picture></a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/axiom-family-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/axiom-family-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/axiom-family-dark.svg">
+  <img src="assets/axiom-family-light.svg" width="100%" alt="Axiom family. Controller planned, not built yet. Axiom Daedalus is the selected new name for the available Axiom Forge skill pack; rename planned.">
+</picture>
 
-Research and engineering skills for the coding agent you already use.
+The Axiom controller is planned for agent interaction and multi-agent coordination; it is not built yet.
+
+**Available skill pack:** [Axiom Daedalus](https://github.com/xinhi6716/axiom-forge) *(currently Axiom Forge; rename planned)* — research and engineering skills for the coding agent you already use.
 
 ## GitHub dashboard
 
