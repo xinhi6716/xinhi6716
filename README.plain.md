@@ -1,23 +1,35 @@
-# LinCing
+# LinCing · Axiom
 
 OpenAI, consider this my very early job application. PhD first.
 
-I work on semiconductor measurements and machine learning.
+I work on semiconductor measurements and machine learning. Axiom is the umbrella brand for the Moirai and Aether series.
 
-## Featured: Axiom
+## Axiom Chronos
 
-Axiom is the umbrella brand for the Moirai and Aether series.
+**Flagship · Public beta.** Turn a code-change request into scoped work and recorded checks. Start with `wish` and `doctor`.
 
-**Flagship · Beta:** [**Axiom Chronos**](https://github.com/xinhi6716/axiom-chronos) — codebase workflows with `wish` and `doctor`.
+[Explore Chronos](https://github.com/xinhi6716/axiom-chronos)
 
-**Moirai** · [**Axiom Clotho**](https://github.com/xinhi6716/ml-super-calculator) — ML integration in progress · **Axiom Lachesis** — planned coordinator, without self-evolution or RAG · [**Axiom Atropos**](https://github.com/xinhi6716/axiom-forge) — available skill pack *(currently Axiom Forge; rename pending)*.
+## Moirai
 
-**Aether · planned, not built** · **Axiom Genesis** — research-specialized RSI · **Axiom Ouroboros** — general agent applications / skill self-iteration and evolution · **Axiom Yggdrasil** — database.
+- [**Axiom Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local machine-learning workflows. Source beta; integration continues.
+- **Axiom Lachesis** · Planned multi-agent coordination, without self-evolution or RAG.
+- [**Axiom Atropos**](https://github.com/xinhi6716/axiom-atropos) · Skills for existing agents. Forge package and host identifiers remain compatible.
 
-## Bookshelf
+## Aether
+
+*The next horizon. Planned, not built.*
+
+- **Axiom Genesis** · Research-specialized recursive self-improvement.
+- **Axiom Ouroboros** · General agent applications that iterate their skills.
+- **Axiom Yggdrasil** · A shared database and knowledge foundation.
+
+These are directions for the series, not capabilities of today's releases.
+
+## Personal library
+
+Separate from Axiom.
 
 [CS self-study](https://github.com/xinhi6716/computer-science-self-study) · [English](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.en.md) · [中文](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.md)
-
----
 
 [Visual version](README.md)

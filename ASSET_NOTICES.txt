@@ -1,3 +1,13 @@
+CURRENT PROFILE — 2026-10-27 Celestial editorial refinement
+
+The active README uses eight repository-local, original SVG assets: four profile-sanctum variants and four moirai-frieze variants. One architectural masthead replaces the former three-panel introduction. The exact personal OpenAI wish is retained without implying affiliation. An accessible text-only version supplies the same scope and destinations.
+
+The composition uses the original Axiom Celestial Order geometry, nested arches, engraved lines and a stepped plinth. Typography is DejaVu glyph outlines; no external font, font binary, copied third-party artwork, hosted dashboard, telemetry, statistical card or animation is added. Existing license notices below are retained. Assets are decorative identities, not measured results or scientific schematics.
+
+Chronos is a public beta; Clotho is a source beta with integration continuing; Atropos is an available skill pack with existing Forge package/host identifiers. Canonical Clotho/Atropos repository names were verified by the coordinator. Lachesis and Aether are planned. The bookshelf remains a separate personal collection and its repository is unchanged.
+
+HISTORICAL NOTICES — the following text is preserved as provenance of older versions and retained unused assets, not as the description of today's active page.
+
 CURRENT PROFILE — 2026-10-27 sacred Axiom showcase
 
 The active README uses only repository-local SVG images. The statistical dashboard and all hosted summary-card image requests have been removed. Earlier notices below are preserved as historical provenance for prior versions and retained unused assets; they do not describe the active README.
