@@ -14,6 +14,17 @@
 
 I work on semiconductor measurements and machine learning.
 
+## Featured: [Axiom Forge](https://github.com/xinhi6716/axiom-forge)
+
+<p><a href="https://github.com/xinhi6716/axiom-forge"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/axiom-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/axiom-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/axiom-dark.svg">
+  <img src="assets/axiom-light.svg" width="100%" alt="Axiom Forge. Research and engineering skills. Original repository icon.">
+</picture></a></p>
+
+Research and engineering skills for the coding agent you already use.
+
 ## GitHub dashboard
 
 <picture>
@@ -33,17 +44,6 @@ I work on semiconductor measurements and machine learning.
 </p>
 
 <sub><a href="https://github.com/xinhi6716">Public GitHub activity</a> · cached cards by <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">GitHub Profile Summary Cards</a></sub>
-
-## Featured: [Axiom Forge](https://github.com/xinhi6716/axiom-forge)
-
-<p><a href="https://github.com/xinhi6716/axiom-forge"><picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/axiom-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/axiom-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/axiom-dark.svg">
-  <img src="assets/axiom-light.svg" width="100%" alt="Axiom Forge. Research and engineering skills. Original repository icon.">
-</picture></a></p>
-
-Research and engineering skills for the coding agent you already use.
 
 **More to explore**
 

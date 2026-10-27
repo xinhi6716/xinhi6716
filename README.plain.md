@@ -4,6 +4,10 @@ OpenAI, consider this my very early job application. PhD first.
 
 I work on semiconductor measurements and machine learning.
 
+## Featured: [Axiom Forge](https://github.com/xinhi6716/axiom-forge)
+
+Research and engineering skills for the coding agent you already use.
+
 ## GitHub dashboard
 
 The visual profile shows public GitHub activity, repository statistics and language charts. These are third-party cached cards, not live counters or a proficiency ranking.
@@ -11,10 +15,6 @@ The visual profile shows public GitHub activity, repository statistics and langu
 [View public GitHub activity](https://github.com/xinhi6716) · [How the cards are generated](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 The hosted stats and language cards aggregate up to 100 repositories ranked by stars. Their reporting scope can differ from GitHub’s own views. No private-repository credentials are supplied by this profile.
-
-## Featured: [Axiom Forge](https://github.com/xinhi6716/axiom-forge)
-
-Research and engineering skills for the coding agent you already use.
 
 **More to explore**
 
