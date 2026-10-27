@@ -2,60 +2,33 @@
 
 OpenAI, consider this my very early job application. PhD first.
 
-I work on semiconductor measurements and machine learning. These are the tools, research notes and reading projects I keep here.
+I work on semiconductor measurements and machine learning.
 
-## Build with data
+## GitHub dashboard
 
-### [Semiconductor Machine Learning Toolbox](https://github.com/xinhi6716/semiconductor-machine-learning-toolbox)
+The visual profile shows public GitHub activity, repository statistics and language charts. These are third-party cached cards, not live counters or a proficiency ranking.
 
-Start with measurement tables: process I–V, RRAM, TLM and Hall data, check device groups, and run local pulse-path baselines.
+[View public GitHub activity](https://github.com/xinhi6716) · [How the cards are generated](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[Choose an installation path →](https://github.com/xinhi6716/semiconductor-machine-learning-toolbox/blob/main/docs/installation.md)
+The hosted stats and language cards aggregate up to 100 repositories ranked by stars. Their reporting scope can differ from GitHub’s own views. No private-repository credentials are supplied by this profile.
 
-### [ML Super Calculator](https://github.com/xinhi6716/ml-super-calculator)
-
-Bring a CSV, compare models with group-held-out evaluation, then refit and predict new rows. Computation stays in your own environment.
-
-[Browse the examples →](https://github.com/xinhi6716/ml-super-calculator/tree/main/examples)
-
-## Agent methods
-
-**[Axiom Forge](https://github.com/xinhi6716/axiom-forge)**
+## Featured: [Axiom Forge](https://github.com/xinhi6716/axiom-forge)
 
 Research and engineering skills for the coding agent you already use.
 
-[Browse the workflows →](https://github.com/xinhi6716/axiom-forge)
+**More to explore**
 
-## Small utilities
+- **Data tools** · [Semiconductor ML Toolbox](https://github.com/xinhi6716/semiconductor-machine-learning-toolbox) · [ML Super Calculator](https://github.com/xinhi6716/ml-super-calculator)
+- **Reading** · [CS self-study](https://github.com/xinhi6716/computer-science-self-study) ([EN](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.en.md) / [中文](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.md)) · [Beyond Second Chances](https://github.com/xinhi6716/beyond-second-chances)
 
-### [Research Workflow Utilities](https://github.com/xinhi6716/research-workflow-utilities)
+<details>
+<summary>Small utilities & quick starts</summary>
 
-For the work between experiments: compare and join tables, check saved files, and inspect predictions.
+- [Research Workflow Utilities](https://github.com/xinhi6716/research-workflow-utilities) · [Materials Table Check](https://github.com/xinhi6716/materials-table-check) · [Reproduce One Run](https://github.com/xinhi6716/reproduce-one-run)
+- [Toolbox installation](https://github.com/xinhi6716/semiconductor-machine-learning-toolbox/blob/main/docs/installation.md) · [Calculator examples](https://github.com/xinhi6716/ml-super-calculator/tree/main/examples)
 
-### [Materials Table Check](https://github.com/xinhi6716/materials-table-check)
-
-Check a CSV before modeling: required fields, duplicates, unit labels and cross-split groups, using a JSON schema.
-
-### [Reproduce One Run](https://github.com/xinhi6716/reproduce-one-run)
-
-Keep a record of one local run: the command, files, logs and hashes, with output checks against a spec.
-
-## Books & research
-
-### [Computer Science Self-Study](https://github.com/xinhi6716/computer-science-self-study)
-
-Six CS subjects in Chinese and English, with chapter notes, full-course PDFs, exercises and separate solutions.
-
-Algorithms · Data structures · Discrete mathematics
-
-Linear algebra · Computer organization · Operating systems
-
-[English bookshelf →](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.en.md) · [中文書架 →](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.md)
-
-### [Beyond Second Chances](https://github.com/xinhi6716/beyond-second-chances)
-
-A public preprint and LaTeX source on LLM peer revision.
+</details>
 
 ---
 
-[Visual version](README.md) · [What I’m working on](https://github.com/users/xinhi6716/projects/2)
+[Visual version](README.md) · [Work in progress](https://github.com/users/xinhi6716/projects/2)

@@ -5,46 +5,36 @@
   <img src="assets/cover-light.svg" width="100%" alt="LinCing. Semiconductors, machine learning, code and reading notes.">
 </picture>
 
-**OpenAI, consider this my very early job application. PhD first.**
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/wish-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/wish-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wish-dark.svg">
+  <img src="assets/wish-light.svg" width="100%" alt="OpenAI, consider this my very early job application. PhD first.">
+</picture>
 
-I work on semiconductor measurements and machine learning. These are the tools, research notes and reading projects I keep here.
+I work on semiconductor measurements and machine learning.
 
-<p><a href="#tools">Data tools</a> · <a href="#methods">Methods</a> · <a href="#utilities">Utilities</a> · <a href="#reading">Reading</a> · <a href="https://github.com/users/xinhi6716/projects/2">Work in progress</a></p>
+## GitHub dashboard
 
-<a name="tools"></a>
-
-## Build with data
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xinhi6716&amp;theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xinhi6716&amp;theme=github" width="100%" alt="Public GitHub contribution timeline and profile summary for xinhi6716. Cached third-party card.">
+</picture>
 
 <p>
-<a href="https://github.com/xinhi6716/semiconductor-machine-learning-toolbox"><picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/project-toolbox-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/project-toolbox-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-toolbox-dark.svg">
-  <img src="assets/project-toolbox-light.svg" width="360" alt="Semiconductor Machine Learning Toolbox — measurement files. Open the repository.">
-</picture></a>
-<a href="https://github.com/xinhi6716/ml-super-calculator"><picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/project-calculator-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/project-calculator-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-calculator-dark.svg">
-  <img src="assets/project-calculator-light.svg" width="360" alt="ML Super Calculator — local model comparison. Open the repository.">
-</picture></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xinhi6716&amp;theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xinhi6716&amp;theme=github" width="360" alt="Public GitHub activity totals for xinhi6716. Cached third-party card.">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xinhi6716&amp;theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xinhi6716&amp;theme=github" width="360" alt="Languages across public repositories for xinhi6716, not a proficiency score. Cached third-party card.">
+</picture>
 </p>
 
-### [Semiconductor Machine Learning Toolbox](https://github.com/xinhi6716/semiconductor-machine-learning-toolbox)
+<sub><a href="https://github.com/xinhi6716">Public GitHub activity</a> · cached cards by <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">GitHub Profile Summary Cards</a></sub>
 
-Start with measurement tables: process I–V, RRAM, TLM and Hall data, check device groups, and run local pulse-path baselines.
-
-[Choose an installation path →](https://github.com/xinhi6716/semiconductor-machine-learning-toolbox/blob/main/docs/installation.md)
-
-### [ML Super Calculator](https://github.com/xinhi6716/ml-super-calculator)
-
-Bring a CSV, compare models with group-held-out evaluation, then refit and predict new rows. Computation stays in your own environment.
-
-[Browse the examples →](https://github.com/xinhi6716/ml-super-calculator/tree/main/examples)
-
-<a name="methods"></a>
-
-## Agent methods
+## Featured: [Axiom Forge](https://github.com/xinhi6716/axiom-forge)
 
 <p><a href="https://github.com/xinhi6716/axiom-forge"><picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/axiom-dark-mobile.svg">
@@ -53,46 +43,21 @@ Bring a CSV, compare models with group-held-out evaluation, then refit and predi
   <img src="assets/axiom-light.svg" width="100%" alt="Axiom Forge. Research and engineering skills. Original repository icon.">
 </picture></a></p>
 
-**[Axiom Forge](https://github.com/xinhi6716/axiom-forge)**
-
 Research and engineering skills for the coding agent you already use.
 
-[Browse the workflows →](https://github.com/xinhi6716/axiom-forge)
+**More to explore**
 
-<a name="utilities"></a>
+- **Data tools** · [Semiconductor ML Toolbox](https://github.com/xinhi6716/semiconductor-machine-learning-toolbox) · [ML Super Calculator](https://github.com/xinhi6716/ml-super-calculator)
+- **Reading** · [CS self-study](https://github.com/xinhi6716/computer-science-self-study) ([EN](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.en.md) / [中文](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.md)) · [Beyond Second Chances](https://github.com/xinhi6716/beyond-second-chances)
 
-## Small utilities
+<details>
+<summary>Small utilities & quick starts</summary>
 
-### [Research Workflow Utilities](https://github.com/xinhi6716/research-workflow-utilities)
+- [Research Workflow Utilities](https://github.com/xinhi6716/research-workflow-utilities) · [Materials Table Check](https://github.com/xinhi6716/materials-table-check) · [Reproduce One Run](https://github.com/xinhi6716/reproduce-one-run)
+- [Toolbox installation](https://github.com/xinhi6716/semiconductor-machine-learning-toolbox/blob/main/docs/installation.md) · [Calculator examples](https://github.com/xinhi6716/ml-super-calculator/tree/main/examples)
 
-For the work between experiments: compare and join tables, check saved files, and inspect predictions.
-
-### [Materials Table Check](https://github.com/xinhi6716/materials-table-check)
-
-Check a CSV before modeling: required fields, duplicates, unit labels and cross-split groups, using a JSON schema.
-
-### [Reproduce One Run](https://github.com/xinhi6716/reproduce-one-run)
-
-Keep a record of one local run: the command, files, logs and hashes, with output checks against a spec.
-
-<a name="reading"></a>
-
-## Books & research
-
-### [Computer Science Self-Study](https://github.com/xinhi6716/computer-science-self-study)
-
-Six CS subjects in Chinese and English, with chapter notes, full-course PDFs, exercises and separate solutions.
-
-Algorithms · Data structures · Discrete mathematics
-
-Linear algebra · Computer organization · Operating systems
-
-[English bookshelf →](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.en.md) · [中文書架 →](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.md)
-
-### [Beyond Second Chances](https://github.com/xinhi6716/beyond-second-chances)
-
-A public preprint and LaTeX source on LLM peer revision.
+</details>
 
 ---
 
-[Text-only version](README.plain.md) · [What I’m working on](https://github.com/users/xinhi6716/projects/2)
+[Text-only version](README.plain.md) · [Work in progress](https://github.com/users/xinhi6716/projects/2)
