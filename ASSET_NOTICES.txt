@@ -1,3 +1,15 @@
+CURRENT PROFILE — 2026-10-28 15:33 UTC · Interim Ouroboros restoration
+
+The latest serpent-body candidate was withdrawn after visual review because it
+did not fit the family's style. The previous Ouroboros glyph is temporarily
+restored in the four Aether plates. This is an interim rollback, not approval
+of the previous glyph or a completed redesign. Other artwork, names, layout
+and beta labels remain unchanged. A replacement will be previewed before
+publication.
+
+HISTORICAL NOTICES AND LICENSES — the following records are preserved verbatim;
+the withdrawn serpent-body description is historical, not the active artwork.
+
 Ouroboros — original serpent-body redesign, 2026-10-28
 
 The current four responsive Aether plates replace the earlier Ouroboros body
