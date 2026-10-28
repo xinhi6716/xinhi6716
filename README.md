@@ -43,7 +43,7 @@ The complete agent application and launcher is the Flagship line's vision, not t
   <img src="assets/ritual-moirai-light.svg" width="100%" alt="Clotho, Lachesis and Atropos: a continuous thread, a measuring seal and a severed thread.">
 </picture>
 
-- [**Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local ML workflows · **Beta 0.3.0b4**
+- [**Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local ML workflows · **Beta 0.3.0b5**
 - **Lachesis** · Multi-agent coordination · **Planned**
 - [**Atropos**](https://github.com/xinhi6716/axiom-atropos) (formerly Forge) · Skills for existing agents
 
@@ -52,7 +52,7 @@ The complete agent application and launcher is the Flagship line's vision, not t
 
 Three tools under Axiom: build models, coordinate agents, and give them a clear working discipline.
 
-- [**Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local machine-learning workflows. Published beta 0.3.0b4; integration continues.
+- [**Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local machine-learning workflows. Published beta 0.3.0b5; integration continues.
 - **Lachesis** · Planned multi-agent coordination, without self-evolution or RAG.
 - [**Atropos**](https://github.com/xinhi6716/axiom-atropos) · Skills for existing agents. Forge package and host identifiers remain compatible.
 
