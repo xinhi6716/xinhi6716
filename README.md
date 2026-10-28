@@ -1,34 +1,34 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/profile-sanctum-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/profile-sanctum-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-sanctum-dark.svg">
-  <img src="assets/profile-sanctum-light.svg" width="100%" alt="LinCing. Axiom. Semiconductor measurements and machine learning. OpenAI, consider this my very early job application. PhD first.">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/ritual-masthead-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/ritual-masthead-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ritual-masthead-dark.svg">
+  <img src="assets/ritual-masthead-light.svg" width="100%" alt="LinCing. Axiom. Semiconductor measurements and machine learning. OpenAI, consider this my very early job application. PhD first.">
 </picture>
 
 <p align="center"><a href="#axiom-chronos">Chronos</a> · <a href="#moirai">Moirai</a> · <a href="#aether">Aether</a> · <a href="README.plain.md">Text-only</a></p>
 
-<h2 id="axiom-chronos">
+<h2 id="axiom-chronos" align="center">Axiom Chronos</h2>
+
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/chapter-chronos-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/chapter-chronos-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/chapter-chronos-dark.svg">
-  <img src="assets/chapter-chronos-light.svg" width="100%" alt="Axiom Chronos">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/ritual-chronos-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/ritual-chronos-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ritual-chronos-dark.svg">
+  <img src="assets/ritual-chronos-light.svg" width="100%" alt="An hourglass on a celestial time axis. Flagship public beta.">
 </picture>
-</h2>
 
 <p align="center"><strong>Flagship · Public beta</strong><br>
 Turn a code-change request into scoped work and recorded checks.<br>
 Start with <code>wish</code> and <code>doctor</code>.<br><br>
 <a href="https://github.com/xinhi6716/axiom-chronos"><strong>Explore Chronos →</strong></a></p>
 
-<h2 id="moirai">
+<h2 id="moirai" align="center">Moirai</h2>
+
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/chapter-moirai-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/chapter-moirai-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/chapter-moirai-dark.svg">
-  <img src="assets/chapter-moirai-light.svg" width="100%" alt="Moirai">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/ritual-moirai-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/ritual-moirai-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ritual-moirai-dark.svg">
+  <img src="assets/ritual-moirai-light.svg" width="100%" alt="Clotho, Lachesis and Atropos: continuity, measure and severance in three distinct celestial forms.">
 </picture>
-</h2>
 
 Three tools under Axiom: build models, coordinate agents, and give them a clear working discipline.
 
@@ -36,14 +36,14 @@ Three tools under Axiom: build models, coordinate agents, and give them a clear 
 - **Lachesis** · Planned multi-agent coordination, without self-evolution or RAG.
 - [**Atropos**](https://github.com/xinhi6716/axiom-atropos) · Skills for existing agents. Forge package and host identifiers remain compatible.
 
-<h2 id="aether">
+<h2 id="aether" align="center">Aether</h2>
+
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/chapter-aether-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/chapter-aether-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/chapter-aether-dark.svg">
-  <img src="assets/chapter-aether-light.svg" width="100%" alt="Aether">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/ritual-aether-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/ritual-aether-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ritual-aether-dark.svg">
+  <img src="assets/ritual-aether-light.svg" width="100%" alt="Genesis, Ouroboros and Yggdrasil: convergence, recursion and a branching stellar archive. All planned, not built.">
 </picture>
-</h2>
 
 *The next horizon. Planned, not built.*
 

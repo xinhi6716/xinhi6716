@@ -243,3 +243,6 @@ License: bitstream-vera
  org.
 
 
+
+
+Celestial ritual refinement (2026-10-28): ritual-*.svg are original authored editable SVG compositions by this assistant team. No image-generation assets, raster tracing or third-party artwork. Existing DejaVu font outline notices still apply. Geometry is symbolic brand illustration, not a scientific diagram or capability claim.
