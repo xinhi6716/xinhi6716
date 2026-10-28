@@ -2,7 +2,9 @@
 
 OpenAI, consider this my very early job application. PhD first.
 
-I work on semiconductor measurements and machine learning. Axiom has three lines, each with three products: Flagship, Moirai and Aether.
+I work on semiconductor measurements and machine learning. Axiom brings my projects together in three families: Flagship, Moirai and Aether.
+
+[Visual version](README.md) · [繁體中文](README.zh-TW.md)
 
 [Flagship](#flagship) · [Moirai](#moirai) · [Aether](#aether)
 
@@ -10,32 +12,38 @@ I work on semiconductor measurements and machine learning. Axiom has three lines
 
 *All for one.* A vision for a complete agent application and launcher.
 
-- [**Axiom Chronos**](https://github.com/xinhi6716/axiom-chronos) · **Public beta.** The existing prototype turns code-change requests into scoped work and recorded checks. Start with `wish` and `doctor`.
-- **Axiom Odin** · **Concept.** A broad direction for a local LLM studio, not a detailed specification or released product.
-- **Axiom Gaia** · **Coming soon.** Its function is not yet defined.
-
-The complete agent application and launcher is the Flagship line's vision, not the current scope of Chronos.
+- **[Chronos](https://github.com/xinhi6716/axiom-chronos)** · Public beta  
+  Scoped code changes with recorded checks. Start with `wish` and `doctor`.  
+  [English](https://github.com/xinhi6716/axiom-chronos/blob/main/README.md) · [繁體中文](https://github.com/xinhi6716/axiom-chronos/blob/main/README.zh-TW.md)
+- **Odin** · Concept  
+  A local LLM studio.
+- **Gaia** · Coming soon
 
 ## Moirai
 
-- [**Axiom Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local machine-learning workflows. Published beta 0.3.0b6; integration continues.
-- **Axiom Lachesis** · Planned multi-agent coordination, without self-evolution or RAG.
-- [**Axiom Atropos**](https://github.com/xinhi6716/axiom-atropos) · Skills for existing agents. Forge package and host identifiers remain compatible.
+Models, coordination and the skills to do the work.
+
+- **[Clotho](https://github.com/xinhi6716/axiom-clotho)** · Beta 0.3.0b6  
+  Local machine-learning workflows for device measurements and grouped tables.  
+  [English](https://github.com/xinhi6716/axiom-clotho/blob/main/README.md) · [繁體中文](https://github.com/xinhi6716/axiom-clotho/blob/main/README.zh-TW.md)
+- **Lachesis** · Planned  
+  Multi-agent coordination, without self-evolution or RAG.
+- **[Atropos](https://github.com/xinhi6716/axiom-atropos)** · Available skill pack  
+  Research and engineering skills for the agents you already use. Formerly Forge.  
+  [English](https://github.com/xinhi6716/axiom-atropos/blob/main/README.md) · [繁體中文](https://github.com/xinhi6716/axiom-atropos/blob/main/README.zh-TW.md)
 
 ## Aether
 
-*The next horizon. Planned, not built.*
+*Planned, not built.* Three longer-term directions.
 
-- **Axiom Genesis** · Research-specialized recursive self-improvement.
-- **Axiom Ouroboros** · General agent applications that iterate their skills.
-- **Axiom Yggdrasil** · A shared database and knowledge foundation.
+- **Genesis**  
+  Research-focused recursive self-improvement.
+- **Ouroboros**  
+  Agent applications that iterate their skills.
+- **Yggdrasil**  
+  A shared data and knowledge foundation.
 
-These are directions for the series, not capabilities of today's releases.
+---
 
-## Personal library
-
-Separate from Axiom.
-
+**Personal library** · Separate from Axiom.  
 [CS self-study](https://github.com/xinhi6716/computer-science-self-study) · [English](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.en.md) · [中文](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.md)
-
-[Visual version](README.md)

@@ -1,3 +1,32 @@
+CURRENT PROFILE — 2026-10-28 Cosmic ritual refinement
+
+Sixteen responsive ritual SVGs now share ivory, midnight and gold. The mother
+masthead keeps the distinctive First Cause seal, original outlined introduction
+and exact OpenAI wish. The three family plates use concise product-name labels;
+native English and Traditional Chinese READMEs carry links, release status and
+scope. README.plain.md retains a text-only English version. The personal library
+remains separate and unchanged. These identities are symbolic, not evidence of
+scientific results or implemented capabilities.
+
+Aether / Flagship — shared celestial field refinement, 2026-10-28
+
+The eight current responsive Aether and Flagship plates preserve the six
+accepted first-party emblem geometries, including living Yggdrasil's canopy,
+roots and world disk. New first-party vector orbital/constellation framing uses
+the shared ivory/midnight/gold palette. Concise product-name labels use outlined
+DejaVu Serif glyphs under the existing font notice; no status or description
+paragraphs are baked into the art. Native README text remains authoritative for
+product links, release status and scope. The connecting ornament is symbolic
+branding, not a scientific diagram, implemented architecture or capability claim.
+Genesis remains distinct from Axiom's mother-brand First Cause emblem. No raster,
+script, filter, animation or external resource is introduced. Existing notices
+and font licensing must be retained intact.
+
+Moirai celestial instruments · 2026-10-28. The authored spindle, dividers and shears retain their exact central paths from the fate-instrument study. A shared open orbital field aligns the three origin stars and a calibrated thread is interrupted at Atropos; this is symbolic identity artwork, not measurement evidence or implementation scope. Profile names alone are outlined in DejaVu Serif, with no status prose inside artwork. Shared ivory #f4efe3 / midnight #101a22 surfaces and gold #8d6b2d (light) / #d7bd82 (dark) preserve silhouette hierarchy; secondary light engravings use #b89a58. Desktop1200×620 and mobile600×800 retain existing live asset paths. SVGs contain only original vectors and local masks; no external imagery, scripts, remote fonts, filters, animation or tracking. Existing historical provenance and DejaVu license notices remain intact.
+
+HISTORICAL NOTICES AND LICENSES — preserved verbatim below. Earlier statements
+headed CURRENT PROFILE describe their dated snapshots, not the active page.
+
 CURRENT PROFILE — 2026-10-28 Three routes, nine products
 
 The active profile presents Flagship (Chronos, Odin, Gaia), Moirai (Clotho, Lachesis, Atropos), and Aether (Genesis, Ouroboros, Yggdrasil). Chronos is an existing public beta for scoped code changes using wish and doctor; a complete agent application and launcher is the Flagship line's vision, not shipped capability. Odin is a broad local LLM studio concept. Gaia is coming soon and its function is not defined. No repository or product link is invented.

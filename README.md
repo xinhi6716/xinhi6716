@@ -1,38 +1,37 @@
+<p align="center"><a href="README.md">English</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.plain.md">Text-only</a></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/ritual-masthead-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/ritual-masthead-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/ritual-masthead-dark.svg">
-  <img src="assets/ritual-masthead-light.svg" width="100%" alt="LinCing. Axiom. Semiconductor measurements and machine learning. OpenAI, consider this my very early job application. PhD first.">
+  <img src="assets/ritual-masthead-light.svg" width="100%" alt="LinCing. Axiom First Cause emblem. Semiconductor measurements and machine learning. OpenAI, consider this my very early job application. PhD first.">
 </picture>
 
-<p align="center"><a href="#flagship">Flagship</a> · <a href="#moirai">Moirai</a> · <a href="#aether">Aether</a> · <a href="README.plain.md">Text-only</a></p>
+<p align="center">Axiom brings my projects together in three families: Flagship, Moirai and Aether.</p>
+
+<p align="center"><a href="#flagship">Flagship</a> · <a href="#moirai">Moirai</a> · <a href="#aether">Aether</a></p>
 
 <a id="axiom-chronos"></a>
+
 <h2 id="flagship" align="center">Flagship</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/ritual-flagship-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/ritual-flagship-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/ritual-flagship-dark.svg">
-  <img src="assets/ritual-flagship-light.svg" width="100%" alt="Flagship: Chronos, public beta; Odin, concept; Gaia, coming soon.">
+  <img src="assets/ritual-flagship-light.svg" width="100%" alt="The Flagship family: Chronos, Odin and Gaia.">
 </picture>
 
-*All for one.* A vision for a complete agent application and launcher.
+<p><em>All for one.</em> A vision for a complete agent application and launcher.</p>
 
-- [**Chronos**](https://github.com/xinhi6716/axiom-chronos) · Scoped code changes · **Public beta**
-- **Odin** · Local LLM studio · **Concept**
-- **Gaia** · **Coming soon**
-
-<details>
-<summary>Scope &amp; entry points</summary>
-
-- [**Chronos**](https://github.com/xinhi6716/axiom-chronos) · The existing beta prototype turns code-change requests into scoped work and recorded checks. Start with `wish` and `doctor`.
-- **Odin** · A broad direction for a local LLM studio, not a detailed specification or released product.
-- **Gaia** · Coming soon. Its function is not yet defined.
-
-The complete agent application and launcher is the Flagship line's vision, not the current scope of Chronos.
-
-</details>
+<ul>
+  <li><strong><a href="https://github.com/xinhi6716/axiom-chronos">Chronos</a></strong> · Public beta<br>
+    Scoped code changes with recorded checks. Start with <code>wish</code> and <code>doctor</code>.<br>
+    <a href="https://github.com/xinhi6716/axiom-chronos/blob/main/README.md">English</a> · <a href="https://github.com/xinhi6716/axiom-chronos/blob/main/README.zh-TW.md">繁體中文</a></li>
+  <li><strong>Odin</strong> · Concept<br>
+    A local LLM studio.</li>
+  <li><strong>Gaia</strong> · Coming soon</li>
+</ul>
 
 <h2 id="moirai" align="center">Moirai</h2>
 
@@ -40,23 +39,21 @@ The complete agent application and launcher is the Flagship line's vision, not t
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/ritual-moirai-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/ritual-moirai-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/ritual-moirai-dark.svg">
-  <img src="assets/ritual-moirai-light.svg" width="100%" alt="Clotho, Lachesis and Atropos: a continuous thread, a measuring seal and a severed thread.">
+  <img src="assets/ritual-moirai-light.svg" width="100%" alt="The Moirai family: Clotho, Lachesis and Atropos.">
 </picture>
 
-- [**Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local ML workflows · **Beta 0.3.0b6**
-- **Lachesis** · Multi-agent coordination · **Planned**
-- [**Atropos**](https://github.com/xinhi6716/axiom-atropos) (formerly Forge) · Skills for existing agents
+<p>Models, coordination and the skills to do the work.</p>
 
-<details>
-<summary>Product scope &amp; compatibility</summary>
-
-Three tools under Axiom: build models, coordinate agents, and give them a clear working discipline.
-
-- [**Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local machine-learning workflows. Published beta 0.3.0b6; integration continues.
-- **Lachesis** · Planned multi-agent coordination, without self-evolution or RAG.
-- [**Atropos**](https://github.com/xinhi6716/axiom-atropos) · Skills for existing agents. Forge package and host identifiers remain compatible.
-
-</details>
+<ul>
+  <li><strong><a href="https://github.com/xinhi6716/axiom-clotho">Clotho</a></strong> · Beta 0.3.0b6<br>
+    Local machine-learning workflows for device measurements and grouped tables.<br>
+    <a href="https://github.com/xinhi6716/axiom-clotho/blob/main/README.md">English</a> · <a href="https://github.com/xinhi6716/axiom-clotho/blob/main/README.zh-TW.md">繁體中文</a></li>
+  <li><strong>Lachesis</strong> · Planned<br>
+    Multi-agent coordination, without self-evolution or RAG.</li>
+  <li><strong><a href="https://github.com/xinhi6716/axiom-atropos">Atropos</a></strong> · Available skill pack<br>
+    Research and engineering skills for the agents you already use. Formerly Forge.<br>
+    <a href="https://github.com/xinhi6716/axiom-atropos/blob/main/README.md">English</a> · <a href="https://github.com/xinhi6716/axiom-atropos/blob/main/README.zh-TW.md">繁體中文</a></li>
+</ul>
 
 <h2 id="aether" align="center">Aether</h2>
 
@@ -64,29 +61,19 @@ Three tools under Axiom: build models, coordinate agents, and give them a clear 
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/ritual-aether-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/ritual-aether-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/ritual-aether-dark.svg">
-  <img src="assets/ritual-aether-light.svg" width="100%" alt="Genesis, Ouroboros and Yggdrasil: convergence, recursion and a branching stellar archive. All planned, not built.">
+  <img src="assets/ritual-aether-light.svg" width="100%" alt="The Aether family: Genesis, Ouroboros and Yggdrasil. All planned, not built.">
 </picture>
 
-*Planned, not built.*
+<p><em>Planned, not built.</em> Three longer-term directions.</p>
 
-- **Genesis** · Research-focused self-improvement
-- **Ouroboros** · Agents that iterate their skills
-- **Yggdrasil** · Shared data and knowledge
-
-<details>
-<summary>Planned scope</summary>
-
-*The next horizon. Planned, not built.*
-
-- **Axiom Genesis** · Research-specialized recursive self-improvement.
-- **Axiom Ouroboros** · General agent applications that iterate their skills.
-- **Axiom Yggdrasil** · A shared database and knowledge foundation.
-
-These are directions for the series, not capabilities of today's releases.
-
-</details>
-
-<br>
+<ul>
+  <li><strong>Genesis</strong><br>
+    Research-focused recursive self-improvement.</li>
+  <li><strong>Ouroboros</strong><br>
+    Agent applications that iterate their skills.</li>
+  <li><strong>Yggdrasil</strong><br>
+    A shared data and knowledge foundation.</li>
+</ul>
 
 ---
 
