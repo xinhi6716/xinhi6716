@@ -12,7 +12,7 @@ I work on semiconductor measurements and machine learning. Axiom is the umbrella
 
 ## Moirai
 
-- [**Axiom Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local machine-learning workflows. Published beta 0.3.0b3; integration continues.
+- [**Axiom Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local machine-learning workflows. Published beta 0.3.0b4; integration continues.
 - **Axiom Lachesis** · Planned multi-agent coordination, without self-evolution or RAG.
 - [**Axiom Atropos**](https://github.com/xinhi6716/axiom-atropos) · Skills for existing agents. Forge package and host identifiers remain compatible.
 

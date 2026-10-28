@@ -38,7 +38,7 @@ Start with <code>wish</code> and <code>doctor</code>.<br><br>
   <img src="assets/ritual-moirai-light.svg" width="100%" alt="Clotho, Lachesis and Atropos: continuity, measure and severance in three distinct celestial forms.">
 </picture>
 
-- [**Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local ML workflows · **Beta 0.3.0b3**
+- [**Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local ML workflows · **Beta 0.3.0b4**
 - **Lachesis** · Multi-agent coordination · **Planned**
 - [**Atropos**](https://github.com/xinhi6716/axiom-atropos) · Skills for existing agents
 
@@ -47,7 +47,7 @@ Start with <code>wish</code> and <code>doctor</code>.<br><br>
 
 Three tools under Axiom: build models, coordinate agents, and give them a clear working discipline.
 
-- [**Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local machine-learning workflows. Published beta 0.3.0b3; integration continues.
+- [**Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local machine-learning workflows. Published beta 0.3.0b4; integration continues.
 - **Lachesis** · Planned multi-agent coordination, without self-evolution or RAG.
 - [**Atropos**](https://github.com/xinhi6716/axiom-atropos) · Skills for existing agents. Forge package and host identifiers remain compatible.
 
