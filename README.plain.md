@@ -2,13 +2,19 @@
 
 OpenAI, consider this my very early job application. PhD first.
 
-I work on semiconductor measurements and machine learning. Axiom is the umbrella brand for the Moirai and Aether series.
+I work on semiconductor measurements and machine learning. Axiom has three lines, each with three products: Flagship, Moirai and Aether.
 
-## Axiom Chronos
+[Flagship](#flagship) · [Moirai](#moirai) · [Aether](#aether)
 
-**Flagship · Public beta.** Turn a code-change request into scoped work and recorded checks. Start with `wish` and `doctor`.
+## Flagship
 
-[Explore Chronos](https://github.com/xinhi6716/axiom-chronos)
+*All for one.* A vision for a complete agent application and launcher.
+
+- [**Axiom Chronos**](https://github.com/xinhi6716/axiom-chronos) · **Public beta.** The existing prototype turns code-change requests into scoped work and recorded checks. Start with `wish` and `doctor`.
+- **Axiom Odin** · **Concept.** A broad direction for a local LLM studio, not a detailed specification or released product.
+- **Axiom Gaia** · **Coming soon.** Its function is not yet defined.
+
+The complete agent application and launcher is the Flagship line's vision, not the current scope of Chronos.
 
 ## Moirai
 

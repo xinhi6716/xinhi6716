@@ -1,3 +1,11 @@
+CURRENT PROFILE — 2026-10-28 Three routes, nine products
+
+The active profile presents Flagship (Chronos, Odin, Gaia), Moirai (Clotho, Lachesis, Atropos), and Aether (Genesis, Ouroboros, Yggdrasil). Chronos is an existing public beta for scoped code changes using wish and doctor; a complete agent application and launcher is the Flagship line's vision, not shipped capability. Odin is a broad local LLM studio concept. Gaia is coming soon and its function is not defined. No repository or product link is invented.
+
+The authored First Cause emblem replaces only the masthead artwork; all original wordmark, personal introduction, and exact OpenAI wish outlines remain unchanged. Authored Winged Spear and Gaia Seed Vessel concepts join the preserved Chronos geometry in one Flagship plate. Atropos alone changes within Moirai to the authored Severed Thread emblem. Clotho and Lachesis geometry, every Aether SVG byte, and the personal-library section are preserved. Shared DejaVu outline typography and light/dark palette continue. SVG assets contain no raster image, scripts, external references, web fonts, filters, telemetry or animation. These are identity metaphors, not scientific diagrams or implementation promises. Historical notices and DejaVu license text below are retained as provenance.
+
+HISTORICAL NOTICES
+
 CURRENT PROFILE — 2026-10-28 Editorial continuity
 
 The active page retains the original sacred masthead and exact OpenAI wish. Three original chapter plates extend the ivory/gold/obsidian architectural language through Chronos, Moirai and Aether. Chronos is the largest chapter, Moirai reuses its existing three symbols without a second repeated product-name panel, and Aether is visibly planned, not built. Heading images have concise alternatives; equivalent content and all destinations remain in native prose and README.plain.md. No new logos, telemetry, fonts, statistics, scientific results or hosted dashboards. Older assets and notices remain as provenance. Glyph outlines use the existing DejaVu license below.

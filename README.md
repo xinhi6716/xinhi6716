@@ -5,27 +5,32 @@
   <img src="assets/ritual-masthead-light.svg" width="100%" alt="LinCing. Axiom. Semiconductor measurements and machine learning. OpenAI, consider this my very early job application. PhD first.">
 </picture>
 
-<p align="center"><a href="#axiom-chronos">Chronos</a> · <a href="#moirai">Moirai</a> · <a href="#aether">Aether</a> · <a href="README.plain.md">Text-only</a></p>
+<p align="center"><a href="#flagship">Flagship</a> · <a href="#moirai">Moirai</a> · <a href="#aether">Aether</a> · <a href="README.plain.md">Text-only</a></p>
 
 <a id="axiom-chronos"></a>
 <h2 id="flagship" align="center">Flagship</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/ritual-chronos-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/ritual-chronos-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ritual-chronos-dark.svg">
-  <img src="assets/ritual-chronos-light.svg" width="100%" alt="Chronos. An hourglass on a celestial time axis. Flagship public beta.">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/ritual-flagship-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/ritual-flagship-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ritual-flagship-dark.svg">
+  <img src="assets/ritual-flagship-light.svg" width="100%" alt="Flagship: Chronos, public beta; Odin, concept; Gaia, coming soon.">
 </picture>
 
-<p align="center"><strong>Public beta</strong><br>Scoped code changes, with recorded checks.<br><br><a href="https://github.com/xinhi6716/axiom-chronos"><strong>Explore Chronos →</strong></a></p>
+*All for one.* A vision for a complete agent application and launcher.
+
+- [**Chronos**](https://github.com/xinhi6716/axiom-chronos) · Scoped code changes · **Public beta**
+- **Odin** · Local LLM studio · **Concept**
+- **Gaia** · **Coming soon**
 
 <details>
 <summary>Scope &amp; entry points</summary>
 
-<p align="center"><strong>Flagship · Public beta</strong><br>
-Turn a code-change request into scoped work and recorded checks.<br>
-Start with <code>wish</code> and <code>doctor</code>.<br><br>
-<a href="https://github.com/xinhi6716/axiom-chronos"><strong>Explore Chronos →</strong></a></p>
+- [**Chronos**](https://github.com/xinhi6716/axiom-chronos) · The existing beta prototype turns code-change requests into scoped work and recorded checks. Start with `wish` and `doctor`.
+- **Odin** · A broad direction for a local LLM studio, not a detailed specification or released product.
+- **Gaia** · Coming soon. Its function is not yet defined.
+
+The complete agent application and launcher is the Flagship line's vision, not the current scope of Chronos.
 
 </details>
 
@@ -35,7 +40,7 @@ Start with <code>wish</code> and <code>doctor</code>.<br><br>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/ritual-moirai-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/ritual-moirai-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/ritual-moirai-dark.svg">
-  <img src="assets/ritual-moirai-light.svg" width="100%" alt="Clotho, Lachesis and Atropos: continuity, measure and severance in three distinct celestial forms.">
+  <img src="assets/ritual-moirai-light.svg" width="100%" alt="Clotho, Lachesis and Atropos: a continuous thread, a measuring seal and a severed thread.">
 </picture>
 
 - [**Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local ML workflows · **Beta 0.3.0b4**
