@@ -16,10 +16,17 @@
   <img src="assets/ritual-chronos-light.svg" width="100%" alt="An hourglass on a celestial time axis. Flagship public beta.">
 </picture>
 
+<p align="center"><strong>Flagship · Public beta</strong><br>Scoped code changes, with recorded checks.<br><br><a href="https://github.com/xinhi6716/axiom-chronos"><strong>Explore Chronos →</strong></a></p>
+
+<details>
+<summary>Scope &amp; entry points</summary>
+
 <p align="center"><strong>Flagship · Public beta</strong><br>
 Turn a code-change request into scoped work and recorded checks.<br>
 Start with <code>wish</code> and <code>doctor</code>.<br><br>
 <a href="https://github.com/xinhi6716/axiom-chronos"><strong>Explore Chronos →</strong></a></p>
+
+</details>
 
 <h2 id="moirai" align="center">Moirai</h2>
 
@@ -30,11 +37,20 @@ Start with <code>wish</code> and <code>doctor</code>.<br><br>
   <img src="assets/ritual-moirai-light.svg" width="100%" alt="Clotho, Lachesis and Atropos: continuity, measure and severance in three distinct celestial forms.">
 </picture>
 
+- [**Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local ML workflows · **Beta 0.3.0b3**
+- **Lachesis** · Multi-agent coordination · **Planned**
+- [**Atropos**](https://github.com/xinhi6716/axiom-atropos) · Skills for existing agents
+
+<details>
+<summary>Product scope &amp; compatibility</summary>
+
 Three tools under Axiom: build models, coordinate agents, and give them a clear working discipline.
 
 - [**Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local machine-learning workflows. Published beta 0.3.0b3; integration continues.
 - **Lachesis** · Planned multi-agent coordination, without self-evolution or RAG.
 - [**Atropos**](https://github.com/xinhi6716/axiom-atropos) · Skills for existing agents. Forge package and host identifiers remain compatible.
+
+</details>
 
 <h2 id="aether" align="center">Aether</h2>
 
@@ -45,6 +61,15 @@ Three tools under Axiom: build models, coordinate agents, and give them a clear 
   <img src="assets/ritual-aether-light.svg" width="100%" alt="Genesis, Ouroboros and Yggdrasil: convergence, recursion and a branching stellar archive. All planned, not built.">
 </picture>
 
+*Planned, not built.*
+
+- **Genesis** · Research-focused self-improvement
+- **Ouroboros** · Agents that iterate their skills
+- **Yggdrasil** · Shared data and knowledge
+
+<details>
+<summary>Planned scope</summary>
+
 *The next horizon. Planned, not built.*
 
 - **Axiom Genesis** · Research-specialized recursive self-improvement.
@@ -52,6 +77,8 @@ Three tools under Axiom: build models, coordinate agents, and give them a clear 
 - **Axiom Yggdrasil** · A shared database and knowledge foundation.
 
 These are directions for the series, not capabilities of today's releases.
+
+</details>
 
 <br>
 
