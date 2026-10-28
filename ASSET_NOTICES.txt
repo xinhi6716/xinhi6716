@@ -258,3 +258,6 @@ Yggdrasil C refinement (2026-10-28): only the Yggdrasil group in ritual-aether S
 
 
 Celestial family refinements (2026-10-28): the Clotho, Lachesis, Atropos and Ouroboros groups use original editable flat-vector optical refinements. Yggdrasil now uses an original living world-tree and celestial-disk composition, with a dominant zenith and connected realm axis. Its authored geometry is unchanged during integration; only the full-canvas background is removed and colors adapted to the light/dark family palettes, preserving opaque cutouts. Genesis is unchanged. No generated raster, tracing, figures or faceted R3 artwork is included. Existing typography, status descriptions and font/art notices remain unchanged.
+
+
+Genesis First Light refinement (2026-10-28): only the Genesis group in ritual-aether SVGs adopts an original editable three-field celestial convergence emblem centered on a first star. Geometry and optical scale follow the authored dark/light masters exactly. Existing Ouroboros and living world-tree disk artwork, typography and planned status are unchanged. No generated raster, tracing or faceted R3 artwork is included.

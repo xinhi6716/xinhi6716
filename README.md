@@ -40,7 +40,7 @@ Start with <code>wish</code> and <code>doctor</code>.<br><br>
 
 - [**Clotho**](https://github.com/xinhi6716/axiom-clotho) · Local ML workflows · **Beta 0.3.0b4**
 - **Lachesis** · Multi-agent coordination · **Planned**
-- [**Atropos**](https://github.com/xinhi6716/axiom-atropos) · Skills for existing agents
+- [**Atropos**](https://github.com/xinhi6716/axiom-atropos) (formerly Forge) · Skills for existing agents
 
 <details>
 <summary>Product scope &amp; compatibility</summary>
