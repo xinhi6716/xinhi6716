@@ -1,3 +1,9 @@
+CURRENT PROFILE — 2026-10-28 Editorial continuity
+
+The active page retains the original sacred masthead and exact OpenAI wish. Three original chapter plates extend the ivory/gold/obsidian architectural language through Chronos, Moirai and Aether. Chronos is the largest chapter, Moirai reuses its existing three symbols without a second repeated product-name panel, and Aether is visibly planned, not built. Heading images have concise alternatives; equivalent content and all destinations remain in native prose and README.plain.md. No new logos, telemetry, fonts, statistics, scientific results or hosted dashboards. Older assets and notices remain as provenance. Glyph outlines use the existing DejaVu license below.
+
+HISTORICAL NOTICES
+
 CURRENT PROFILE — 2026-10-27 Celestial editorial refinement
 
 The active README uses eight repository-local, original SVG assets: four profile-sanctum variants and four moirai-frieze variants. One architectural masthead replaces the former three-panel introduction. The exact personal OpenAI wish is retained without implying affiliation. An accessible text-only version supplies the same scope and destinations.
