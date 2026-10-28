@@ -1,3 +1,19 @@
+Ouroboros — original serpent-body redesign, 2026-10-28
+
+The current four responsive Aether plates replace the earlier Ouroboros body
+with newly authored first-party vector geometry: an asymmetric, variable-width
+coil, angular head, visibly clasped tapered tail and restrained engraving.
+This is a substantive serpent redesign, not only recoloring or orbital framing.
+Genesis, living Yggdrasil, product-name outlines, plate layout and the shared
+ivory/midnight/gold palette remain unchanged. Product scope is still planned;
+the symbol does not imply an implemented feature or scientific result.
+
+This dated section supersedes older current-preservation wording for Ouroboros
+only. Prior notices and DejaVu licensing remain intact. No external artwork,
+raster image, live font, script, filter or remote resource is added.
+
+HISTORICAL NOTICES AND LICENSES — preserved verbatim below.
+
 CURRENT PROFILE — 2026-10-28 Cosmic ritual refinement
 
 Sixteen responsive ritual SVGs now share ivory, midnight and gold. The mother
