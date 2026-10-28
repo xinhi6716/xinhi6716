@@ -252,3 +252,6 @@ R2: stronger structural masses and restrained cast facets; concise native summar
 
 
 Typography-only refinement (2026-10-28): Chronos product-name lettering uses the same existing DejaVu Serif outlines as the six family names. Existing Axiom, Chronos, Moirai and Aether glyph geometry is unchanged. The native Flagship chapter retains a separate #axiom-chronos compatibility anchor. Existing artwork and font notices continue to apply.
+
+
+Yggdrasil C refinement (2026-10-28): only the Yggdrasil group in ritual-aether SVGs adopts an original flat-vector sweeping-canopy refinement. Genesis, Ouroboros and all other identities are unchanged. No generated raster, tracing or faceted R3 artwork is included. Planned status and existing font/art notices remain unchanged.
