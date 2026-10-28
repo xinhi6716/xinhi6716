@@ -7,16 +7,17 @@
 
 <p align="center"><a href="#axiom-chronos">Chronos</a> · <a href="#moirai">Moirai</a> · <a href="#aether">Aether</a> · <a href="README.plain.md">Text-only</a></p>
 
-<h2 id="axiom-chronos" align="center">Axiom Chronos</h2>
+<a id="axiom-chronos"></a>
+<h2 id="flagship" align="center">Flagship</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/ritual-chronos-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/ritual-chronos-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/ritual-chronos-dark.svg">
-  <img src="assets/ritual-chronos-light.svg" width="100%" alt="An hourglass on a celestial time axis. Flagship public beta.">
+  <img src="assets/ritual-chronos-light.svg" width="100%" alt="Chronos. An hourglass on a celestial time axis. Flagship public beta.">
 </picture>
 
-<p align="center"><strong>Flagship · Public beta</strong><br>Scoped code changes, with recorded checks.<br><br><a href="https://github.com/xinhi6716/axiom-chronos"><strong>Explore Chronos →</strong></a></p>
+<p align="center"><strong>Public beta</strong><br>Scoped code changes, with recorded checks.<br><br><a href="https://github.com/xinhi6716/axiom-chronos"><strong>Explore Chronos →</strong></a></p>
 
 <details>
 <summary>Scope &amp; entry points</summary>
