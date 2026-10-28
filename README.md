@@ -45,7 +45,7 @@
 <p>Models, coordination and the skills to do the work.</p>
 
 <ul>
-  <li><strong><a href="https://github.com/xinhi6716/axiom-clotho">Clotho</a></strong> · Beta 0.3.0b6<br>
+  <li><strong><a href="https://github.com/xinhi6716/axiom-clotho">Clotho</a></strong> · Beta 0.3.0b7<br>
     Local machine-learning workflows for device measurements and grouped tables.<br>
     <a href="https://github.com/xinhi6716/axiom-clotho/blob/main/README.md">English</a> · <a href="https://github.com/xinhi6716/axiom-clotho/blob/main/README.zh-TW.md">繁體中文</a></li>
   <li><strong>Lachesis</strong> · Planned<br>

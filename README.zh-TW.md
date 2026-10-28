@@ -45,7 +45,7 @@
 <p>模型、協作，以及完成工作的技能。</p>
 
 <ul>
-  <li><strong><a href="https://github.com/xinhi6716/axiom-clotho">Clotho</a></strong> · Beta 0.3.0b6<br>
+  <li><strong><a href="https://github.com/xinhi6716/axiom-clotho">Clotho</a></strong> · Beta 0.3.0b7<br>
     處理元件量測與分組表格的本機機器學習流程。<br>
     <a href="https://github.com/xinhi6716/axiom-clotho/blob/main/README.md">English</a> · <a href="https://github.com/xinhi6716/axiom-clotho/blob/main/README.zh-TW.md">繁體中文</a></li>
   <li><strong>Lachesis</strong> · 規劃中<br>

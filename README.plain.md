@@ -23,7 +23,7 @@ I work on semiconductor measurements and machine learning. Axiom brings my proje
 
 Models, coordination and the skills to do the work.
 
-- **[Clotho](https://github.com/xinhi6716/axiom-clotho)** · Beta 0.3.0b6  
+- **[Clotho](https://github.com/xinhi6716/axiom-clotho)** · Beta 0.3.0b7  
   Local machine-learning workflows for device measurements and grouped tables.  
   [English](https://github.com/xinhi6716/axiom-clotho/blob/main/README.md) · [繁體中文](https://github.com/xinhi6716/axiom-clotho/blob/main/README.zh-TW.md)
 - **Lachesis** · Planned  
