@@ -10,6 +10,8 @@ I work on semiconductor measurements and machine learning. **Axiom** is where I 
 
 ## Start here
 
+<a id="axiom-chronos"></a>
+
 ### [Chronos](https://github.com/xinhi6716/axiom-chronos) · Agent workflow
 
 Scoped code changes with recorded checks. Start with `wish` and `doctor`.
@@ -32,6 +34,8 @@ A skill pack for the agents you already use. Formerly Forge.
 
 The three live projects above are the starting points. The wider family map also includes concepts and planned work.
 
+<a id="flagship"></a>
+
 ### Flagship · Applications and launchers
 
 *All for one.* A vision for a complete agent application and launcher.
@@ -40,11 +44,15 @@ The three live projects above are the starting points. The wider family map also
 - **Odin** · Concept. A local LLM studio.
 - **Gaia** · Coming soon.
 
+<a id="moirai"></a>
+
 ### Moirai · Models, coordination and skills
 
 - **Clotho** · Beta. Local machine-learning workflows.
 - **Lachesis** · Planned. Multi-agent coordination, without self-evolution or RAG.
 - **Atropos** · Available skill pack. Research and engineering skills.
+
+<a id="aether"></a>
 
 ### Aether · Longer-term research directions
 

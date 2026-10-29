@@ -15,6 +15,8 @@
 
 ## 從這裡開始
 
+<a id="axiom-chronos"></a>
+
 ### [Chronos](https://github.com/xinhi6716/axiom-chronos) · Agent 工作流程
 
 有範圍的程式修改與檢查紀錄。從 `wish` 與 `doctor` 開始。
@@ -37,6 +39,8 @@
 
 上方三個已有公開專案可作為入口；完整系列也包含概念與尚未實作的規劃。
 
+<a id="flagship"></a>
+
 <details>
 <summary><strong>Flagship</strong> · 應用程式與啟動器</summary>
 
@@ -55,6 +59,8 @@
 
 </details>
 
+<a id="moirai"></a>
+
 <details>
 <summary><strong>Moirai</strong> · 模型、協調與技能</summary>
 
@@ -70,6 +76,8 @@
 - **Atropos** · 已提供技能包。研究與工程技能。
 
 </details>
+
+<a id="aether"></a>
 
 <details>
 <summary><strong>Aether</strong> · 長期研究方向</summary>

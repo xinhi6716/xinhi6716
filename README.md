@@ -15,6 +15,8 @@ I work on semiconductor measurements and machine learning. **Axiom** is where I 
 
 ## Start here
 
+<a id="axiom-chronos"></a>
+
 ### [Chronos](https://github.com/xinhi6716/axiom-chronos) · Agent workflow
 
 Scoped code changes with recorded checks. Start with `wish` and `doctor`.
@@ -37,6 +39,8 @@ A skill pack for the agents you already use. Formerly Forge.
 
 The three live projects above are the starting points. The wider family map also includes concepts and planned work.
 
+<a id="flagship"></a>
+
 <details>
 <summary><strong>Flagship</strong> · Applications and launchers</summary>
 
@@ -55,6 +59,8 @@ The three live projects above are the starting points. The wider family map also
 
 </details>
 
+<a id="moirai"></a>
+
 <details>
 <summary><strong>Moirai</strong> · Models, coordination and skills</summary>
 
@@ -70,6 +76,8 @@ The three live projects above are the starting points. The wider family map also
 - **Atropos** · Available skill pack. Research and engineering skills.
 
 </details>
+
+<a id="aether"></a>
 
 <details>
 <summary><strong>Aether</strong> · Longer-term research directions</summary>
