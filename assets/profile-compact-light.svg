@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">LinCing · Axiom</title>
+  <desc id="desc">A compact Axiom banner with the original First Cause emblem and celestial rings. Semiconductor measurements and machine learning.</desc>
+  <rect width="1200" height="230" rx="16" fill="#f4efe3" />
+  <g transform="translate(-185.0 15.89) scale(0.53)" aria-hidden="true">
+    <g id="celestial-origin-field" aria-hidden="true" fill="none">
+      <circle cx="600.0" cy="187" r="166" stroke="#8d6b2d" stroke-width="0.8" opacity="0.37" />
+      <circle cx="600.0" cy="187" r="171" stroke="#8d6b2d" stroke-width="0.6" opacity="0.17" />
+      <circle cx="600.0" cy="187" r="157" stroke="#8d6b2d" stroke-width="0.7" opacity="0.16" />
+      <path d="M771.000 187.000 L776.000 187.000" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M768.402 216.694 L771.357 217.215" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M760.687 245.485 L763.507 246.512" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M748.090 272.500 L752.420 275.000" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M730.994 296.917 L733.292 298.845" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M709.917 317.994 L711.845 320.292" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M685.500 335.090 L688.000 339.420" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M658.485 347.687 L659.512 350.507" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M629.694 355.402 L630.215 358.357" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M600.000 358.000 L600.000 363.000" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M570.306 355.402 L569.785 358.357" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M541.515 347.687 L540.488 350.507" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M514.500 335.090 L512.000 339.420" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M490.083 317.994 L488.155 320.292" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M469.006 296.917 L466.708 298.845" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M451.910 272.500 L447.580 275.000" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M439.313 245.485 L436.493 246.512" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M431.598 216.694 L428.643 217.215" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M429.000 187.000 L424.000 187.000" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M431.598 157.306 L428.643 156.785" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M439.313 128.515 L436.493 127.488" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M451.910 101.500 L447.580 99.000" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M469.006 77.083 L466.708 75.155" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M490.083 56.006 L488.155 53.708" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M514.500 38.910 L512.000 34.580" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M541.515 26.313 L540.488 23.493" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M570.306 18.598 L569.785 15.643" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M600.000 16.000 L600.000 11.000" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M629.694 18.598 L630.215 15.643" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M658.485 26.313 L659.512 23.493" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M685.500 38.910 L688.000 34.580" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M709.917 56.006 L711.845 53.708" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M730.994 77.083 L733.292 75.155" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M748.090 101.500 L752.420 99.000" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M760.687 128.515 L763.507 127.488" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <path d="M768.402 157.306 L771.357 156.785" stroke="#8d6b2d" stroke-width=".7" opacity=".43" />
+      <polyline points="407.0,143 361.0,85 262.0,119 192.0,62 108.0,95" stroke="#cbd4df" stroke-width=".9" opacity=".7" />
+      <polyline points="407.0,231 361.0,289 262.0,255 192.0,312 108.0,279" stroke="#cbd4df" stroke-width=".9" opacity=".45" />
+      <path d="M407.0 140 L410.0 143 L407.0 146 L404.0 143 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M361.0 83.5 L362.5 85 L361.0 86.5 L359.5 85 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M262.0 116 L265.0 119 L262.0 122 L259.0 119 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M192.0 60.5 L193.5 62 L192.0 63.5 L190.5 62 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M108.0 92 L111.0 95 L108.0 98 L105.0 95 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M407.0 229.5 L408.5 231 L407.0 232.5 L405.5 231 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M361.0 286 L364.0 289 L361.0 292 L358.0 289 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M262.0 253.5 L263.5 255 L262.0 256.5 L260.5 255 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M192.0 309 L195.0 312 L192.0 315 L189.0 312 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M108.0 277.5 L109.5 279 L108.0 280.5 L106.5 279 Z" fill="#8d6b2d" opacity=".8" />
+      <polyline points="793.0,143 839.0,85 938.0,119 1008.0,62 1092.0,95" stroke="#cbd4df" stroke-width=".9" opacity=".7" />
+      <polyline points="793.0,231 839.0,289 938.0,255 1008.0,312 1092.0,279" stroke="#cbd4df" stroke-width=".9" opacity=".45" />
+      <path d="M793.0 140 L796.0 143 L793.0 146 L790.0 143 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M839.0 83.5 L840.5 85 L839.0 86.5 L837.5 85 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M938.0 116 L941.0 119 L938.0 122 L935.0 119 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M1008.0 60.5 L1009.5 62 L1008.0 63.5 L1006.5 62 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M1092.0 92 L1095.0 95 L1092.0 98 L1089.0 95 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M793.0 229.5 L794.5 231 L793.0 232.5 L791.5 231 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M839.0 286 L842.0 289 L839.0 292 L836.0 289 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M938.0 253.5 L939.5 255 L938.0 256.5 L936.5 255 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M1008.0 309 L1011.0 312 L1008.0 315 L1005.0 312 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M1092.0 277.5 L1093.5 279 L1092.0 280.5 L1090.5 279 Z" fill="#8d6b2d" opacity=".8" />
+      <path d="M354.0 37 Q232.0 187 354.0 337" stroke="#8d6b2d" stroke-width=".8" opacity=".25" />
+      <path d="M333.0 64 Q253.0 187 333.0 310" stroke="#cbd4df" stroke-width=".7" opacity=".4" />
+      <path d="M846.0 37 Q968.0 187 846.0 337" stroke="#8d6b2d" stroke-width=".8" opacity=".25" />
+      <path d="M867.0 64 Q947.0 187 867.0 310" stroke="#cbd4df" stroke-width=".7" opacity=".4" />
+    </g>
+    <g id="axiom-first-cause" aria-label="Axiom — First Cause" transform="translate(456.64 43.639999999999986) scale(0.56)">
+      <path id="origin-crown" fill="#17263a" fill-rule="evenodd" d="M256 92 C321 145 356 198 356 256 C356 314 321 367 256 420 C191 367 156 314 156 256 C156 198 191 145 256 92 Z M256 147 C211 190 194 225 194 256 C194 287 211 322 256 365 C301 322 318 287 318 256 C318 225 301 190 256 147 Z" />
+      <path id="western-emanation" d="M143 144 C114 168 84 203 62 256 C84 309 114 344 143 368 C126 324 115 290 115 256 C115 222 126 188 143 144 Z" fill="#17263a" />
+      <path id="eastern-emanation" d="M143 144 C114 168 84 203 62 256 C84 309 114 344 143 368 C126 324 115 290 115 256 C115 222 126 188 143 144 Z" fill="#17263a" transform="translate(512 0) scale(-1 1)" />
+      <path id="upper-emanation" d="M256 24 C249 45 244 60 242 68 L256 80 L270 68 C268 60 263 45 256 24 Z" fill="#80642e" />
+      <path id="lower-emanation" d="M256 488 C249 467 244 452 242 444 L256 432 L270 444 C268 452 263 467 256 488 Z" fill="#80642e" />
+      <path d="M102 75 C126 95 143 111 154 128 L166 151 L142 135 C125 120 112 101 102 75 Z" fill="#80642e" transform="" />
+      <path d="M102 75 C126 95 143 111 154 128 L166 151 L142 135 C125 120 112 101 102 75 Z" fill="#80642e" transform="translate(512 0) scale(-1 1)" />
+      <path d="M102 75 C126 95 143 111 154 128 L166 151 L142 135 C125 120 112 101 102 75 Z" fill="#80642e" transform="translate(0 512) scale(1 -1)" />
+      <path d="M102 75 C126 95 143 111 154 128 L166 151 L142 135 C125 120 112 101 102 75 Z" fill="#80642e" transform="translate(512 512) scale(-1 -1)" />
+      <path id="unmade-seed" d="M256 191 C279 213 290 235 290 256 C290 277 279 299 256 321 C233 299 222 277 222 256 C222 235 233 213 256 191 Z M256 211 C241 228 236 244 236 256 C236 268 241 284 256 301 C271 284 276 268 276 256 C276 244 271 228 256 211 Z" fill="#80642e" fill-rule="evenodd" />
+    </g>
+  </g>
+  <text x="270" y="61" fill="#806024" font-family="Georgia, serif" font-size="20" letter-spacing="3">LINCING /</text>
+  <text x="270" y="128" fill="#182b35" font-family="Georgia, serif" font-size="72" letter-spacing="5">AXIOM</text>
+  <line x1="270" y1="151" x2="1080" y2="151" stroke="#806024" opacity="0.5" />
+  <text x="270" y="186" fill="#4c6370" font-family="Arial, sans-serif" font-size="24">Semiconductor measurements. Machine learning.</text>
+</svg>
