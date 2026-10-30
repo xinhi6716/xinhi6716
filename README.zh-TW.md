@@ -19,12 +19,13 @@
 
 <h2 id="flagship" align="center">Flagship</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/ritual-flagship-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/ritual-flagship-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ritual-flagship-dark.svg">
-  <img src="assets/ritual-flagship-light.svg" width="100%" alt="Flagship 系列：Chronos、Odin 與 Gaia。">
-</picture>
+<table>
+<tr>
+  <td align="center" width="33%"><a href="https://github.com/xinhi6716/axiom-chronos"><img src="assets/identity-v8/chronos.png" width="280" alt="Chronos — Axiom Flagship identity"></a><br><a href="https://github.com/xinhi6716/axiom-chronos"><strong>Chronos</strong></a></td>
+  <td align="center" width="33%"><img src="assets/identity-v8/odin.png" width="280" alt="Odin — Axiom Flagship identity"><br><strong>Odin</strong></td>
+  <td align="center" width="33%"><img src="assets/identity-v8/gaia.png" width="280" alt="Gaia — Axiom Flagship identity"><br><strong>Gaia</strong></td>
+</tr>
+</table>
 
 <p><em>All for one.</em> 朝完整代理應用程式與啟動器前進的願景。</p>
 
@@ -39,12 +40,13 @@
 
 <h2 id="moirai" align="center">Moirai</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/ritual-moirai-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/ritual-moirai-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ritual-moirai-dark.svg">
-  <img src="assets/ritual-moirai-light.svg" width="100%" alt="Moirai 系列：Clotho、Lachesis 與 Atropos。">
-</picture>
+<table>
+<tr>
+  <td align="center" width="33%"><a href="https://github.com/xinhi6716/axiom-clotho"><img src="assets/identity-v8/clotho.png" width="280" alt="Clotho — Axiom Moirai identity"></a><br><a href="https://github.com/xinhi6716/axiom-clotho"><strong>Clotho</strong></a></td>
+  <td align="center" width="33%"><img src="assets/identity-v8/lachesis.png" width="280" alt="Lachesis — Axiom Moirai identity"><br><strong>Lachesis</strong></td>
+  <td align="center" width="33%"><a href="https://github.com/xinhi6716/axiom-atropos"><img src="assets/identity-v8/atropos.png" width="280" alt="Atropos — Axiom Moirai identity"></a><br><a href="https://github.com/xinhi6716/axiom-atropos"><strong>Atropos</strong></a></td>
+</tr>
+</table>
 
 <p>模型、協作，以及完成工作的技能。</p>
 
@@ -61,12 +63,13 @@
 
 <h2 id="aether" align="center">Aether</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/ritual-aether-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/ritual-aether-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ritual-aether-dark.svg">
-  <img src="assets/ritual-aether-light.svg" width="100%" alt="Aether 系列：Genesis、Ouroboros 與 Yggdrasil。全部規劃中，尚未建成。">
-</picture>
+<table>
+<tr>
+  <td align="center" width="33%"><img src="assets/identity-v8/genesis.png" width="280" alt="Genesis — Axiom Aether identity"><br><strong>Genesis</strong></td>
+  <td align="center" width="33%"><img src="assets/identity-v8/ouroboros.png" width="280" alt="Ouroboros — Axiom Aether identity"><br><strong>Ouroboros</strong></td>
+  <td align="center" width="33%"><img src="assets/identity-v8/yggdrasil.png" width="280" alt="Yggdrasil — Axiom Aether identity"><br><strong>Yggdrasil</strong></td>
+</tr>
+</table>
 
 <p><em>規劃中，尚未建成。</em> 三個較長期的方向。</p>
 
@@ -86,4 +89,5 @@
 
 **個人書架** · 與 Axiom 分開維護。  
 [CS self-study](https://github.com/xinhi6716/computer-science-self-study) · [English](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.en.md) · [中文](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.md)
+
 
