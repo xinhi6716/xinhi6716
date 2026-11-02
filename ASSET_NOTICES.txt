@@ -1,3 +1,46 @@
+CURRENT PROFILE — 2026-11-02
+
+The active visual README uses the compact Axiom First Cause wordmark and the
+nine canonical raster identity illustrations listed below. The native README
+text, not the symbolic artwork, is authoritative for release status, links and
+implemented or planned scope. The personal learning library is separate from
+the Axiom families.
+
+CANONICAL IDENTITY ILLUSTRATIONS — preserved without modification
+
+assets/identity-v8/chronos.png
+assets/identity-v8/odin.png
+assets/identity-v8/gaia.png
+assets/identity-v8/clotho.png
+assets/identity-v8/lachesis.png
+assets/identity-v8/atropos.png
+assets/identity-v8/genesis.png
+assets/identity-v8/ouroboros.png
+assets/identity-v8/yggdrasil.png
+
+These files are unchanged from the already-published profile source at:
+https://github.com/xinhi6716/xinhi6716/tree/95b148368534587e5393bc9ef610b99c01ca8e92/assets/identity-v8
+
+The current refresh does not redraw, recolor, crop or replace these images.
+Historical statements about SVG-only assets or font outlines do not describe
+these PNG files and do not establish an additional license for them.
+
+COMPACT BRAND MARKS — version 1
+
+assets/brand-marks/v1/ contains the Axiom, Chronos, Clotho and Atropos compact
+icons and wordmarks in light and dark variants. See that directory's
+ASSET_NOTICES.txt for source information and FONT_LICENSE.txt for the
+outlined font license. These SVG marks supplement the raster illustrations;
+they do not replace the nine canonical identities.
+
+HISTORICAL NOTICES AND LICENSES — preserved verbatim below.
+The dated records below refer to earlier artwork and layouts. Labels such as
+"current," "interim," or "no raster" inside those records are historical and
+must not be read as a description of the active profile listed above.
+
+------------------------------------------------------------------------
+
+
 CURRENT PROFILE — 2026-10-28 15:33 UTC · Interim Ouroboros restoration
 
 The latest serpent-body candidate was withdrawn after visual review because it

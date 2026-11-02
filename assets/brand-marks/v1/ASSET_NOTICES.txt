@@ -1,0 +1,22 @@
+Compact Axiom identity companions — 2026-11-02
+
+This directory contains responsive SVG logo companions for Axiom, Chronos,
+Clotho and Atropos. Each identity has a square 256 x 256 mark and a 720 x 176
+wordmark in light and dark palettes. These companions do not replace or alter
+the nine identity-v8 PNG illustrations.
+
+The Axiom mark preserves the First Cause emblem geometry from the public
+profile asset assets/profile-compact-dark.svg at commit
+95b148368534587e5393bc9ef610b99c01ca8e92 in xinhi6716/xinhi6716.
+Its square framing and wordmark layout are new. Chronos, Clotho and Atropos
+use newly authored editable vector geometry, continuing the existing
+hourglass/timewheel, spindle/thread and shears/severed-thread identity motifs.
+These are symbolic brand marks, not diagrams of product behavior or claims
+of scientific evidence, performance or implemented capabilities.
+
+The companion palette continues the profile's midnight #101a22 and ivory
+#f4efe3, with gold #d7bd82 on dark surfaces and #8d6b2d on light surfaces.
+Wordmark lettering uses outlined DejaVu Serif and DejaVu Sans glyphs;
+FONT_LICENSE.txt preserves the corresponding font notices. No remote font,
+external image, script, animation, filter or tracking resource is embedded.
+Historical artwork and its notices remain unchanged.

@@ -6,6 +6,8 @@ I work on semiconductor measurements and machine learning. Axiom brings my proje
 
 [Visual version](README.md) · [繁體中文](README.zh-TW.md)
 
+[Chronos](https://github.com/xinhi6716/axiom-chronos) · [Clotho](https://github.com/xinhi6716/axiom-clotho) · [Atropos](https://github.com/xinhi6716/axiom-atropos) · [Personal library](#personal-library)
+
 <a id="start-here"></a>
 <a id="the-axiom-families"></a>
 <a id="axiom-chronos"></a>
@@ -16,7 +18,7 @@ I work on semiconductor measurements and machine learning. Axiom brings my proje
 
 *All for one.* A vision for a complete agent application and launcher.
 
-- **[Chronos](https://github.com/xinhi6716/axiom-chronos)** · Public beta  
+- **[Chronos](https://github.com/xinhi6716/axiom-chronos)** · [v1.0.0](https://github.com/xinhi6716/axiom-chronos/releases/tag/v1.0.0)  
   Scoped code changes with recorded checks. Start with `wish` and `doctor`.  
   [English](https://github.com/xinhi6716/axiom-chronos/blob/main/README.md) · [繁體中文](https://github.com/xinhi6716/axiom-chronos/blob/main/README.zh-TW.md)
 - **Odin** · Concept  
@@ -55,6 +57,9 @@ Models, coordination and the skills to do the work.
 
 <a id="personal-library"></a>
 
-**Personal library** · Separate from Axiom.  
+## Personal library
+
+Separate from Axiom. Bilingual handouts across six CS subjects, plus a Traditional Chinese introduction to RRAM materials and sputtering.
+
 [CS self-study](https://github.com/xinhi6716/computer-science-self-study) · [English](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.en.md) · [中文](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.md)
 
