@@ -1,3 +1,9 @@
+PROFILE LAYOUT — 2026-11-15
+The Profile README uses resized, web-ready JPEGs under assets/profile-2026/.
+They derive directly from the nine identity-v8 PNGs without redrawing,
+recoloring, or cropping. The original PNGs and their notices remain intact.
+No additional license is asserted.
+
 CURRENT PROFILE — 2026-11-02
 
 The active visual README uses the compact Axiom First Cause wordmark and the

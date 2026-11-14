@@ -1,104 +1,86 @@
-<p align="center"><a href="README.md">English</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.plain.md">純文字</a></p>
+[English](README.md) · [文字版](README.plain.md)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/brand-marks/v1/axiom-wordmark-dark.svg">
-    <img src="assets/brand-marks/v1/axiom-wordmark-light.svg" width="420" alt="Axiom — First Cause">
-  </picture>
-</p>
+# LinCing · Axiom
 
-<h1 align="center">LinCing</h1>
-<p align="center">半導體量測 · 機器學習</p>
+半導體量測、機器學習與開源研究工具。
 
-<p align="center"><strong>OpenAI, consider this my very early job application. PhD first.</strong></p>
+<p align="center"><a href="https://github.com/xinhi6716/axiom-chronos"><img src="assets/profile-2026/chronos-feature.jpg" width="380" alt="Chronos，Axiom 旗艦插畫" title="Axiom Chronos"></a></p>
 
-<p align="center">
-  <a href="https://github.com/xinhi6716/axiom-chronos">Chronos</a> ·
-  <a href="https://github.com/xinhi6716/axiom-clotho">Clotho</a> ·
-  <a href="https://github.com/xinhi6716/axiom-atropos">Atropos</a> ·
-  <a href="#personal-library">自學書架</a>
-</p>
-
-<p align="center">Axiom 將我的專案分成三個系列：Flagship、Moirai 與 Aether。</p>
+[主要專案](#start-here) · [Axiom 專案索引](#the-axiom-families) · [個人書架](#personal-library)
 
 <a id="start-here"></a>
-<a id="the-axiom-families"></a>
-<a id="從這裡開始"></a>
-<a id="axiom-專案系列"></a>
 <a id="axiom-chronos"></a>
 
-<h2 id="flagship" align="center">01 · Flagship</h2>
+## 主要專案
 
-<table>
-<tr>
-  <td align="center" width="33%"><a href="https://github.com/xinhi6716/axiom-chronos"><img src="assets/identity-v8/chronos.png" width="100%" alt="Chronos — Axiom Flagship identity"></a><br><a href="https://github.com/xinhi6716/axiom-chronos"><strong>Chronos</strong></a></td>
-  <td align="center" width="33%"><a href="assets/identity-v8/odin.png"><img src="assets/identity-v8/odin.png" width="100%" alt="Odin — Axiom Flagship identity"></a><br><strong>Odin</strong></td>
-  <td align="center" width="33%"><a href="assets/identity-v8/gaia.png"><img src="assets/identity-v8/gaia.png" width="100%" alt="Gaia — Axiom Flagship identity"></a><br><strong>Gaia</strong></td>
-</tr>
-</table>
+**[Chronos](https://github.com/xinhi6716/axiom-chronos)** · [文件](https://github.com/xinhi6716/axiom-chronos/blob/main/README.zh-TW.md)
 
-<p><em>All for one.</em> 朝完整代理應用程式與啟動器前進的願景。</p>
+在指定範圍內修改程式、記錄驗證結果的代理工作流程。從 `wish` 和 `doctor` 開始。
 
-<ul>
-  <li><strong><a href="https://github.com/xinhi6716/axiom-chronos">Chronos</a></strong> · <a href="https://github.com/xinhi6716/axiom-chronos/releases/tag/v1.0.0">v1.0.0</a><br>
-    將程式修改需求轉成範圍明確、留下檢查紀錄的工作。從 <code>wish</code> 與 <code>doctor</code> 開始。<br>
-    <a href="https://github.com/xinhi6716/axiom-chronos/blob/main/README.md">English</a> · <a href="https://github.com/xinhi6716/axiom-chronos/blob/main/README.zh-TW.md">繁體中文</a></li>
-  <li><strong>Odin</strong> · 概念階段<br>
-    本機 LLM 工作室。</li>
-  <li><strong>Gaia</strong> · Coming soon</li>
-</ul>
+**[Clotho](https://github.com/xinhi6716/axiom-clotho)** · [文件](https://github.com/xinhi6716/axiom-clotho/blob/main/README.zh-TW.md)
 
-<h2 id="moirai" align="center">02 · Moirai</h2>
+針對半導體量測與分組資料的本機機器學習工具：整理資料、比較模型、評估預測。
 
-<table>
-<tr>
-  <td align="center" width="33%"><a href="https://github.com/xinhi6716/axiom-clotho"><img src="assets/identity-v8/clotho.png" width="100%" alt="Clotho — Axiom Moirai identity"></a><br><a href="https://github.com/xinhi6716/axiom-clotho"><strong>Clotho</strong></a></td>
-  <td align="center" width="33%"><a href="assets/identity-v8/lachesis.png"><img src="assets/identity-v8/lachesis.png" width="100%" alt="Lachesis — Axiom Moirai identity"></a><br><strong>Lachesis</strong></td>
-  <td align="center" width="33%"><a href="https://github.com/xinhi6716/axiom-atropos"><img src="assets/identity-v8/atropos.png" width="100%" alt="Atropos — Axiom Moirai identity"></a><br><a href="https://github.com/xinhi6716/axiom-atropos"><strong>Atropos</strong></a></td>
-</tr>
-</table>
+**[Atropos](https://github.com/xinhi6716/axiom-atropos)** · [文件](https://github.com/xinhi6716/axiom-atropos/blob/main/README.zh-TW.md)
 
-<p>模型、協作，以及完成工作的技能。</p>
+套用於現有代理工具的研究與工程技能。
 
-<ul>
-  <li><strong><a href="https://github.com/xinhi6716/axiom-clotho">Clotho</a></strong> · Beta<br>
-    處理元件量測與分組表格的本機機器學習流程。<br>
-    <a href="https://github.com/xinhi6716/axiom-clotho/blob/main/README.md">English</a> · <a href="https://github.com/xinhi6716/axiom-clotho/blob/main/README.zh-TW.md">繁體中文</a></li>
-  <li><strong>Lachesis</strong> · 規劃中<br>
-    多代理協作，不含自我演化或 RAG。</li>
-  <li><strong><a href="https://github.com/xinhi6716/axiom-atropos">Atropos</a></strong> · 已提供技能包<br>
-    讓現有代理使用的研究與工程技能。原名 Forge。<br>
-    <a href="https://github.com/xinhi6716/axiom-atropos/blob/main/README.md">English</a> · <a href="https://github.com/xinhi6716/axiom-atropos/blob/main/README.zh-TW.md">繁體中文</a></li>
-</ul>
+<a id="the-axiom-families"></a>
 
-<h2 id="aether" align="center">03 · Aether</h2>
+## Axiom 專案索引
 
-<table>
-<tr>
-  <td align="center" width="33%"><a href="assets/identity-v8/genesis.png"><img src="assets/identity-v8/genesis.png" width="100%" alt="Genesis — Axiom Aether identity"></a><br><strong>Genesis</strong></td>
-  <td align="center" width="33%"><a href="assets/identity-v8/ouroboros.png"><img src="assets/identity-v8/ouroboros.png" width="100%" alt="Ouroboros — Axiom Aether identity"></a><br><strong>Ouroboros</strong></td>
-  <td align="center" width="33%"><a href="assets/identity-v8/yggdrasil.png"><img src="assets/identity-v8/yggdrasil.png" width="100%" alt="Yggdrasil — Axiom Aether identity"></a><br><strong>Yggdrasil</strong></td>
-</tr>
-</table>
+<a id="flagship"></a>
 
-<p><em>規劃中，尚未建成。</em> 三個較長期的方向。</p>
+### Flagship
 
-<ul>
-  <li><strong>Genesis</strong><br>
-    專注研究的遞迴自我改進。</li>
-  <li><strong>Ouroboros</strong><br>
-    能持續迭代技能的代理應用程式。</li>
-  <li><strong>Yggdrasil</strong><br>
-    共享資料與知識的基礎。</li>
-</ul>
+<table><tr>
+<td align="center"><a href="https://github.com/xinhi6716/axiom-chronos"><img src="assets/profile-2026/chronos.jpg" width="136" alt="Chronos"></a><br>Chronos</td>
+<td align="center"><a href="assets/identity-v8/odin.png"><img src="assets/profile-2026/odin.jpg" width="136" alt="Odin"></a><br>Odin</td>
+<td align="center"><a href="assets/identity-v8/gaia.png"><img src="assets/profile-2026/gaia.jpg" width="136" alt="Gaia"></a><br>Gaia</td>
+</tr></table>
 
-<hr>
+- **[Chronos](https://github.com/xinhi6716/axiom-chronos)**
+- **Odin**：構想：本機 LLM 工作室。
+- **Gaia**：尚未公布。
 
-<a id="personal-library"></a>
+<a id="moirai"></a>
+
+### Moirai
+
+<table><tr>
+<td align="center"><a href="https://github.com/xinhi6716/axiom-clotho"><img src="assets/profile-2026/clotho.jpg" width="136" alt="Clotho"></a><br>Clotho</td>
+<td align="center"><a href="assets/identity-v8/lachesis.png"><img src="assets/profile-2026/lachesis.jpg" width="136" alt="Lachesis"></a><br>Lachesis</td>
+<td align="center"><a href="https://github.com/xinhi6716/axiom-atropos"><img src="assets/profile-2026/atropos.jpg" width="136" alt="Atropos"></a><br>Atropos</td>
+</tr></table>
+
+- **[Clotho](https://github.com/xinhi6716/axiom-clotho)**
+- **Lachesis**：規劃中：多代理協作。
+- **[Atropos](https://github.com/xinhi6716/axiom-atropos)**
+
+<a id="aether"></a>
+
+### Aether
+
+<table><tr>
+<td align="center"><a href="assets/identity-v8/genesis.png"><img src="assets/profile-2026/genesis.jpg" width="136" alt="Genesis"></a><br>Genesis</td>
+<td align="center"><a href="assets/identity-v8/ouroboros.png"><img src="assets/profile-2026/ouroboros.jpg" width="136" alt="Ouroboros"></a><br>Ouroboros</td>
+<td align="center"><a href="assets/identity-v8/yggdrasil.png"><img src="assets/profile-2026/yggdrasil.jpg" width="136" alt="Yggdrasil"></a><br>Yggdrasil</td>
+</tr></table>
+
+- **Genesis**：規劃中：遞迴改進研究。
+- **Ouroboros**：規劃中：代理技能迭代。
+- **Yggdrasil**：規劃中：共享知識庫。
+
 <a id="個人書架"></a>
 
-<h2>個人書架</h2>
+<a id="personal-library"></a>
 
-<p>與 Axiom 分開維護。六科雙語資訊工程講義，另有繁體中文 RRAM 材料與濺鍍入門課程。</p>
+## 個人書架
 
-<p><a href="https://github.com/xinhi6716/computer-science-self-study"><strong>CS self-study</strong></a> · <a href="https://github.com/xinhi6716/computer-science-self-study/blob/main/README.en.md">English</a> · <a href="https://github.com/xinhi6716/computer-science-self-study/blob/main/README.md">繁體中文</a></p>
+六科雙語資工講義，另有繁體中文 RRAM 材料與濺鍍入門。
+
+[CS self-study](https://github.com/xinhi6716/computer-science-self-study) · [English](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.en.md) · [繁體中文](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.md)
+
+---
+
+OpenAI, consider this my very early job application. PhD first.

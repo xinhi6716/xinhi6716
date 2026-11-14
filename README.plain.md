@@ -1,65 +1,64 @@
+[Illustrated version](README.md) · [繁體中文](README.zh-TW.md)
+
 # LinCing · Axiom
 
-OpenAI, consider this my very early job application. PhD first.
+Semiconductor measurements, machine learning, and open-source research tools.
 
-I work on semiconductor measurements and machine learning. Axiom brings my projects together in three families: Flagship, Moirai and Aether.
-
-[Visual version](README.md) · [繁體中文](README.zh-TW.md)
-
-[Chronos](https://github.com/xinhi6716/axiom-chronos) · [Clotho](https://github.com/xinhi6716/axiom-clotho) · [Atropos](https://github.com/xinhi6716/axiom-atropos) · [Personal library](#personal-library)
+[Start here](#start-here) · [Axiom project index](#the-axiom-families) · [Learning library](#personal-library)
 
 <a id="start-here"></a>
-<a id="the-axiom-families"></a>
 <a id="axiom-chronos"></a>
+
+## Start here
+
+**[Chronos](https://github.com/xinhi6716/axiom-chronos)** · [Docs](https://github.com/xinhi6716/axiom-chronos/blob/main/README.md)
+
+Agent workflows for scoped code changes and recorded checks. Start with `wish` and `doctor`.
+
+**[Clotho](https://github.com/xinhi6716/axiom-clotho)** · [Docs](https://github.com/xinhi6716/axiom-clotho/blob/main/README.md)
+
+Local machine learning for semiconductor measurements and grouped data: prepare data, compare models, and evaluate predictions.
+
+**[Atropos](https://github.com/xinhi6716/axiom-atropos)** · [Docs](https://github.com/xinhi6716/axiom-atropos/blob/main/README.md)
+
+Reusable research and engineering skills for existing agent tools.
+
+<a id="the-axiom-families"></a>
+
+## Axiom project index
 
 <a id="flagship"></a>
 
-## Flagship
+### Flagship
 
-*All for one.* A vision for a complete agent application and launcher.
-
-- **[Chronos](https://github.com/xinhi6716/axiom-chronos)** · [v1.0.0](https://github.com/xinhi6716/axiom-chronos/releases/tag/v1.0.0)  
-  Scoped code changes with recorded checks. Start with `wish` and `doctor`.  
-  [English](https://github.com/xinhi6716/axiom-chronos/blob/main/README.md) · [繁體中文](https://github.com/xinhi6716/axiom-chronos/blob/main/README.zh-TW.md)
-- **Odin** · Concept  
-  A local LLM studio.
-- **Gaia** · Coming soon
+- **[Chronos](https://github.com/xinhi6716/axiom-chronos)**
+- **Odin** — Concept: a local LLM studio.
+- **Gaia** — Not yet announced.
 
 <a id="moirai"></a>
 
-## Moirai
+### Moirai
 
-Models, coordination and the skills to do the work.
-
-- **[Clotho](https://github.com/xinhi6716/axiom-clotho)** · Beta  
-  Local machine-learning workflows for device measurements and grouped tables.  
-  [English](https://github.com/xinhi6716/axiom-clotho/blob/main/README.md) · [繁體中文](https://github.com/xinhi6716/axiom-clotho/blob/main/README.zh-TW.md)
-- **Lachesis** · Planned  
-  Multi-agent coordination, without self-evolution or RAG.
-- **[Atropos](https://github.com/xinhi6716/axiom-atropos)** · Available skill pack  
-  Research and engineering skills for the agents you already use. Formerly Forge.  
-  [English](https://github.com/xinhi6716/axiom-atropos/blob/main/README.md) · [繁體中文](https://github.com/xinhi6716/axiom-atropos/blob/main/README.zh-TW.md)
+- **[Clotho](https://github.com/xinhi6716/axiom-clotho)**
+- **Lachesis** — Planned: multi-agent coordination.
+- **[Atropos](https://github.com/xinhi6716/axiom-atropos)**
 
 <a id="aether"></a>
 
-## Aether
+### Aether
 
-*Planned, not built.* Three longer-term directions.
-
-- **Genesis**  
-  Research-focused recursive self-improvement.
-- **Ouroboros**  
-  Agent applications that iterate their skills.
-- **Yggdrasil**  
-  A shared data and knowledge foundation.
-
----
+- **Genesis** — Planned: recursive improvement research.
+- **Ouroboros** — Planned: agent skill iteration.
+- **Yggdrasil** — Planned: a shared knowledge base.
 
 <a id="personal-library"></a>
 
-## Personal library
+## Learning library
 
-Separate from Axiom. Bilingual handouts across six CS subjects, plus a Traditional Chinese introduction to RRAM materials and sputtering.
+Bilingual handouts for six computer science subjects, plus a Traditional Chinese introduction to RRAM materials and sputtering.
 
-[CS self-study](https://github.com/xinhi6716/computer-science-self-study) · [English](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.en.md) · [中文](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.md)
+[CS self-study](https://github.com/xinhi6716/computer-science-self-study) · [English](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.en.md) · [繁體中文](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.md)
 
+---
+
+OpenAI, consider this my very early job application. PhD first.

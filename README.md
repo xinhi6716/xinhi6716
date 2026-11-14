@@ -1,101 +1,84 @@
-<p align="center"><a href="README.md">English</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.plain.md">Text-only</a></p>
+[繁體中文](README.zh-TW.md) · [Text-only](README.plain.md)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/brand-marks/v1/axiom-wordmark-dark.svg">
-    <img src="assets/brand-marks/v1/axiom-wordmark-light.svg" width="420" alt="Axiom — First Cause">
-  </picture>
-</p>
+# LinCing · Axiom
 
-<h1 align="center">LinCing</h1>
-<p align="center">Semiconductor measurements · Machine learning</p>
+Semiconductor measurements, machine learning, and open-source research tools.
 
-<p align="center"><strong>OpenAI, consider this my very early job application. PhD first.</strong></p>
+<p align="center"><a href="https://github.com/xinhi6716/axiom-chronos"><img src="assets/profile-2026/chronos-feature.jpg" width="380" alt="Chronos, Axiom’s flagship illustration" title="Axiom Chronos"></a></p>
 
-<p align="center">
-  <a href="https://github.com/xinhi6716/axiom-chronos">Chronos</a> ·
-  <a href="https://github.com/xinhi6716/axiom-clotho">Clotho</a> ·
-  <a href="https://github.com/xinhi6716/axiom-atropos">Atropos</a> ·
-  <a href="#personal-library">Learning library</a>
-</p>
-
-<p align="center">Axiom brings my projects together in three families: Flagship, Moirai and Aether.</p>
+[Start here](#start-here) · [Axiom project index](#the-axiom-families) · [Learning library](#personal-library)
 
 <a id="start-here"></a>
-<a id="the-axiom-families"></a>
 <a id="axiom-chronos"></a>
 
-<h2 id="flagship" align="center">01 · Flagship</h2>
+## Start here
 
-<table>
-<tr>
-  <td align="center" width="33%"><a href="https://github.com/xinhi6716/axiom-chronos"><img src="assets/identity-v8/chronos.png" width="100%" alt="Chronos — Axiom Flagship identity"></a><br><a href="https://github.com/xinhi6716/axiom-chronos"><strong>Chronos</strong></a></td>
-  <td align="center" width="33%"><a href="assets/identity-v8/odin.png"><img src="assets/identity-v8/odin.png" width="100%" alt="Odin — Axiom Flagship identity"></a><br><strong>Odin</strong></td>
-  <td align="center" width="33%"><a href="assets/identity-v8/gaia.png"><img src="assets/identity-v8/gaia.png" width="100%" alt="Gaia — Axiom Flagship identity"></a><br><strong>Gaia</strong></td>
-</tr>
-</table>
+**[Chronos](https://github.com/xinhi6716/axiom-chronos)** · [Docs](https://github.com/xinhi6716/axiom-chronos/blob/main/README.md)
 
-<p><em>All for one.</em> A vision for a complete agent application and launcher.</p>
+Agent workflows for scoped code changes and recorded checks. Start with `wish` and `doctor`.
 
-<ul>
-  <li><strong><a href="https://github.com/xinhi6716/axiom-chronos">Chronos</a></strong> · <a href="https://github.com/xinhi6716/axiom-chronos/releases/tag/v1.0.0">v1.0.0</a><br>
-    Scoped code changes with recorded checks. Start with <code>wish</code> and <code>doctor</code>.<br>
-    <a href="https://github.com/xinhi6716/axiom-chronos/blob/main/README.md">English</a> · <a href="https://github.com/xinhi6716/axiom-chronos/blob/main/README.zh-TW.md">繁體中文</a></li>
-  <li><strong>Odin</strong> · Concept<br>
-    A local LLM studio.</li>
-  <li><strong>Gaia</strong> · Coming soon</li>
-</ul>
+**[Clotho](https://github.com/xinhi6716/axiom-clotho)** · [Docs](https://github.com/xinhi6716/axiom-clotho/blob/main/README.md)
 
-<h2 id="moirai" align="center">02 · Moirai</h2>
+Local machine learning for semiconductor measurements and grouped data: prepare data, compare models, and evaluate predictions.
 
-<table>
-<tr>
-  <td align="center" width="33%"><a href="https://github.com/xinhi6716/axiom-clotho"><img src="assets/identity-v8/clotho.png" width="100%" alt="Clotho — Axiom Moirai identity"></a><br><a href="https://github.com/xinhi6716/axiom-clotho"><strong>Clotho</strong></a></td>
-  <td align="center" width="33%"><a href="assets/identity-v8/lachesis.png"><img src="assets/identity-v8/lachesis.png" width="100%" alt="Lachesis — Axiom Moirai identity"></a><br><strong>Lachesis</strong></td>
-  <td align="center" width="33%"><a href="https://github.com/xinhi6716/axiom-atropos"><img src="assets/identity-v8/atropos.png" width="100%" alt="Atropos — Axiom Moirai identity"></a><br><a href="https://github.com/xinhi6716/axiom-atropos"><strong>Atropos</strong></a></td>
-</tr>
-</table>
+**[Atropos](https://github.com/xinhi6716/axiom-atropos)** · [Docs](https://github.com/xinhi6716/axiom-atropos/blob/main/README.md)
 
-<p>Models, coordination and the skills to do the work.</p>
+Reusable research and engineering skills for existing agent tools.
 
-<ul>
-  <li><strong><a href="https://github.com/xinhi6716/axiom-clotho">Clotho</a></strong> · Beta<br>
-    Local machine-learning workflows for device measurements and grouped tables.<br>
-    <a href="https://github.com/xinhi6716/axiom-clotho/blob/main/README.md">English</a> · <a href="https://github.com/xinhi6716/axiom-clotho/blob/main/README.zh-TW.md">繁體中文</a></li>
-  <li><strong>Lachesis</strong> · Planned<br>
-    Multi-agent coordination, without self-evolution or RAG.</li>
-  <li><strong><a href="https://github.com/xinhi6716/axiom-atropos">Atropos</a></strong> · Available skill pack<br>
-    Research and engineering skills for the agents you already use. Formerly Forge.<br>
-    <a href="https://github.com/xinhi6716/axiom-atropos/blob/main/README.md">English</a> · <a href="https://github.com/xinhi6716/axiom-atropos/blob/main/README.zh-TW.md">繁體中文</a></li>
-</ul>
+<a id="the-axiom-families"></a>
 
-<h2 id="aether" align="center">03 · Aether</h2>
+## Axiom project index
 
-<table>
-<tr>
-  <td align="center" width="33%"><a href="assets/identity-v8/genesis.png"><img src="assets/identity-v8/genesis.png" width="100%" alt="Genesis — Axiom Aether identity"></a><br><strong>Genesis</strong></td>
-  <td align="center" width="33%"><a href="assets/identity-v8/ouroboros.png"><img src="assets/identity-v8/ouroboros.png" width="100%" alt="Ouroboros — Axiom Aether identity"></a><br><strong>Ouroboros</strong></td>
-  <td align="center" width="33%"><a href="assets/identity-v8/yggdrasil.png"><img src="assets/identity-v8/yggdrasil.png" width="100%" alt="Yggdrasil — Axiom Aether identity"></a><br><strong>Yggdrasil</strong></td>
-</tr>
-</table>
+<a id="flagship"></a>
 
-<p><em>Planned, not built.</em> Three longer-term directions.</p>
+### Flagship
 
-<ul>
-  <li><strong>Genesis</strong><br>
-    Research-focused recursive self-improvement.</li>
-  <li><strong>Ouroboros</strong><br>
-    Agent applications that iterate their skills.</li>
-  <li><strong>Yggdrasil</strong><br>
-    A shared data and knowledge foundation.</li>
-</ul>
+<table><tr>
+<td align="center"><a href="https://github.com/xinhi6716/axiom-chronos"><img src="assets/profile-2026/chronos.jpg" width="136" alt="Chronos"></a><br>Chronos</td>
+<td align="center"><a href="assets/identity-v8/odin.png"><img src="assets/profile-2026/odin.jpg" width="136" alt="Odin"></a><br>Odin</td>
+<td align="center"><a href="assets/identity-v8/gaia.png"><img src="assets/profile-2026/gaia.jpg" width="136" alt="Gaia"></a><br>Gaia</td>
+</tr></table>
 
-<hr>
+- **[Chronos](https://github.com/xinhi6716/axiom-chronos)**
+- **Odin** — Concept: a local LLM studio.
+- **Gaia** — Not yet announced.
+
+<a id="moirai"></a>
+
+### Moirai
+
+<table><tr>
+<td align="center"><a href="https://github.com/xinhi6716/axiom-clotho"><img src="assets/profile-2026/clotho.jpg" width="136" alt="Clotho"></a><br>Clotho</td>
+<td align="center"><a href="assets/identity-v8/lachesis.png"><img src="assets/profile-2026/lachesis.jpg" width="136" alt="Lachesis"></a><br>Lachesis</td>
+<td align="center"><a href="https://github.com/xinhi6716/axiom-atropos"><img src="assets/profile-2026/atropos.jpg" width="136" alt="Atropos"></a><br>Atropos</td>
+</tr></table>
+
+- **[Clotho](https://github.com/xinhi6716/axiom-clotho)**
+- **Lachesis** — Planned: multi-agent coordination.
+- **[Atropos](https://github.com/xinhi6716/axiom-atropos)**
+
+<a id="aether"></a>
+
+### Aether
+
+<table><tr>
+<td align="center"><a href="assets/identity-v8/genesis.png"><img src="assets/profile-2026/genesis.jpg" width="136" alt="Genesis"></a><br>Genesis</td>
+<td align="center"><a href="assets/identity-v8/ouroboros.png"><img src="assets/profile-2026/ouroboros.jpg" width="136" alt="Ouroboros"></a><br>Ouroboros</td>
+<td align="center"><a href="assets/identity-v8/yggdrasil.png"><img src="assets/profile-2026/yggdrasil.jpg" width="136" alt="Yggdrasil"></a><br>Yggdrasil</td>
+</tr></table>
+
+- **Genesis** — Planned: recursive improvement research.
+- **Ouroboros** — Planned: agent skill iteration.
+- **Yggdrasil** — Planned: a shared knowledge base.
 
 <a id="personal-library"></a>
 
-<h2>Personal library</h2>
+## Learning library
 
-<p>Separate from Axiom. Bilingual handouts across six CS subjects, plus a Traditional Chinese introduction to RRAM materials and sputtering.</p>
+Bilingual handouts for six computer science subjects, plus a Traditional Chinese introduction to RRAM materials and sputtering.
 
-<p><a href="https://github.com/xinhi6716/computer-science-self-study"><strong>CS self-study</strong></a> · <a href="https://github.com/xinhi6716/computer-science-self-study/blob/main/README.en.md">English</a> · <a href="https://github.com/xinhi6716/computer-science-self-study/blob/main/README.md">繁體中文</a></p>
+[CS self-study](https://github.com/xinhi6716/computer-science-self-study) · [English](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.en.md) · [繁體中文](https://github.com/xinhi6716/computer-science-self-study/blob/main/README.md)
+
+---
+
+OpenAI, consider this my very early job application. PhD first.
