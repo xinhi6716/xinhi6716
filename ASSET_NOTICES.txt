@@ -1,3 +1,8 @@
+PROFILE AND GALLERY — 2026-11-15
+The profile uses the compact Axiom emblem. The resized JPEG portraits are
+used by the separate AXIOM.md and AXIOM.zh-TW.md indexes. No art was altered
+for this layout change; previous notices are retained below.
+
 PROFILE LAYOUT — 2026-11-15
 The Profile README uses resized, web-ready JPEGs under assets/profile-2026/.
 They derive directly from the nine identity-v8 PNGs without redrawing,
