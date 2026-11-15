@@ -1,8 +1,8 @@
 [繁體中文](README.zh-TW.md) · [Text-only](README.plain.md)
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/brand-marks/v1/axiom-icon-dark.svg"><img align="right" width="96" height="96" src="assets/brand-marks/v1/axiom-icon-light.svg" alt="Axiom emblem"></picture>
-
 # LinCing
+
+<p align="center"><img src="assets/profile-2026/axiom-mythic-frieze.jpg" width="100%" alt="Bronze mythological relief: the three Moirai at left, Chronos with the armillary sphere at center, and Yggdrasil within Ouroboros at right"></p>
 
 I work with semiconductor measurements, especially resistive memory (RRAM), and build open-source tools for the experiments around them.
 

@@ -1,8 +1,8 @@
 [English](README.md) · [文字版](README.plain.md)
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/brand-marks/v1/axiom-icon-dark.svg"><img align="right" width="96" height="96" src="assets/brand-marks/v1/axiom-icon-light.svg" alt="Axiom 徽記"></picture>
-
 # LinCing
+
+<p align="center"><img src="assets/profile-2026/axiom-mythic-frieze.jpg" width="100%" alt="青銅神話浮雕：左側為命運三女神，中央為 Chronos 與渾天儀，右側為銜尾蛇環繞的世界樹"></p>
 
 我做半導體量測，特別關注電阻式記憶體（RRAM），也把實驗中用得上的工具做成開源專案。
 
